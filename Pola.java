@@ -16,7 +16,7 @@ public class Pola{
 			}
 		}
 	}
-	private static void kwadrat(int kw){
+	private static void kwadrat(int kw){ //Zapis do pliku "kwadrat.txt"
 		File kwadrat = new File("kwadrat.txt");
 		int poleKw = kw*kw;
 		int obwodKw = 4*kw;
@@ -35,7 +35,7 @@ public class Pola{
 			System.out.println("BLAD: "+e.toString());
 		}
 	}
-	private static void prostokat(int pk1,int pk2){
+	private static void prostokat(int pk1,int pk2){ //Zapis do pliku "prostokat.txt"
 		File prostokat = new File("prostokat.txt");
 		int polePr = pk1*pk2;
 		int obwodPr = 2*(pk1+pk2);
@@ -54,7 +54,7 @@ public class Pola{
 			System.out.println("BLAD: "+e.toString());
 		}
 	}
-	private static void Obliczenia(){
+	private static void Obliczenia(){ //Dane wejsciowe 
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Podaj [kwadrat][prostokat]: ");
 		String figura = sc.next();
@@ -65,7 +65,7 @@ public class Pola{
 				System.out.print("Podaj dlugosc boku: ");
 				kw = sc.nextInt(); 	
 			}
-			String kwad = "";
+			String kwad = ""; //figury
 			for(int i=0;i<kw;i++){
 				for(int j=0;j<kw;j++){
 					kwad += "*";
@@ -88,7 +88,7 @@ public class Pola{
 				System.out.print("Podaj dlugosc boku b: ");
 				pk2 = sc.nextInt(); 	
 			}
-			String prost = "";
+			String prost = ""; //figury
 			for(int i=0;i<pk1;i++){
 				for(int j=0;j<pk2;j++){
 					prost += "*";
