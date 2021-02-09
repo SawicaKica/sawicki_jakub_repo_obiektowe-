@@ -20,24 +20,38 @@ public class Pola{
 		File kwadrat = new File("kwadrat.txt");
 		int poleKw = kw*kw;
 		int obwodKw = 4*kw;
+		String kwad = "";
+		for(int i=0;i<kw;i++){
+			for(int j=0;j<kw;j++){
+				kwad += "*";
+			}
+			kwad += "\n";
+		}
 		try{
 			FileWriter k = new FileWriter(kwadrat, true);
-			k.write("Pole kwadratu: "+poleKw+", obwod kwadratu: "+obwodKw+"\n");
+			k.write("\n"+kwad+"Pole kwadratu: "+poleKw+", obwod kwadratu: "+obwodKw+"\n");
 			k.close();
 		}catch(IOException e){
-			System.out.println("BŁĄD: "+e.toString());
+			System.out.println("BLAD: "+e.toString());
 		}
 	}
 	private static void prostokat(int pk1,int pk2){
 		File prostokat = new File("prostokat.txt");
 		int polePr = pk1*pk2;
 		int obwodPr = 2*(pk1+pk2);
+		String prost = "";
+		for(int i=0;i<pk1;i++){
+			for(int j=0;j<pk2;j++){
+				prost += "*";
+			}
+			prost += "\n";
+		}		
 		try{
 			FileWriter p = new FileWriter(prostokat, true);
-			p.write("Pole prostokata: "+polePr+", obwod prostokata: "+obwodPr+"\n");
+			p.write("\n"+prost+"Pole prostokata: "+polePr+", obwod prostokata: "+obwodPr+"\n");
 			p.close();
 		}catch(IOException e){
-			System.out.println("BŁĄD: "+e.toString());
+			System.out.println("BLAD: "+e.toString());
 		}
 	}
 	private static void Obliczenia(){
@@ -51,6 +65,14 @@ public class Pola{
 				System.out.print("Podaj dlugosc boku: ");
 				kw = sc.nextInt(); 	
 			}
+			String kwad = "";
+			for(int i=0;i<kw;i++){
+				for(int j=0;j<kw;j++){
+					kwad += "*";
+				}
+				kwad += "\n";
+			}
+			System.out.print(kwad);
 			System.out.print("Pole kwadratu: "+kw*kw+", obwod kwadratu: "+4*kw);
 			kwadrat(kw);
 		}else if(figura.equals("prostokat")){
@@ -66,6 +88,14 @@ public class Pola{
 				System.out.print("Podaj dlugosc boku b: ");
 				pk2 = sc.nextInt(); 	
 			}
+			String prost = "";
+			for(int i=0;i<pk1;i++){
+				for(int j=0;j<pk2;j++){
+					prost += "*";
+				}
+				prost += "\n";
+			}
+			System.out.print(prost);
 			System.out.print("Pole prostokata: "+pk1*pk2+", obwod kwadratu:"+2*(pk1+pk2));
 			prostokat(pk1, pk2);
 		}		
