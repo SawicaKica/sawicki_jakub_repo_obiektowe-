@@ -4,15 +4,6 @@ import java.util.Scanner;
 class Tablice{
 	public static void main(String [] a){
 		Random r = new Random();
-		try{
-			Scanner sc = new Scanner(new File("Uczniowie.txt"));
-			int i = Integer.parseInt(sc.nextLine());
-			while(sc.hasNext()){
-                System.out.println(i);
-            }
-        }catch (FileNotFoundException ex){
-            System.out.println("ERROR -> "+ex.toString());
-        }
 		int oceny[] = new int[10];
         for (int i=0;i<oceny.length;i++){
             oceny[i] = r.nextInt(6) +1;
