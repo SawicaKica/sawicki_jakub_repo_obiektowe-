@@ -1,11 +1,9 @@
 
 class TablicaDwuwymiarowa{
     public static void main(String [] args){ 
-        int [] tab = new int[5];
-        tab[0] = 40;
-        for(int i=0;i<tab.length()i++){
-            System.out.println(tab[i]);
-        }    
+
+    }
+	private static void tab2First(){
         int[][] tab2b = new int[5][2]; 
         tab2d[0][1] = 50;
         tab2d[2][1] = -200;
@@ -16,6 +14,13 @@ class TablicaDwuwymiarowa{
             }
             System.out.println("Koniec pętli ze zmienna j");
         }
-        System.out.println("Koniec pętli ze zmienną i");
-    }
+        System.out.println("Koniec pętli ze zmienną i");		
+	}
+	private void static przypomnienieTablicjednowymiarowych(){
+        int [] tab = new int[5];
+        tab[0] = 40;
+        for(int i=0;i<tab.length()i++){
+            System.out.println(tab[i]);
+        }
+	}
 }
