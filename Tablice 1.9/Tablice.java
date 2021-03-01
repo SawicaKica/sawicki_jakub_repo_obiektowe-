@@ -3,14 +3,19 @@ import java.io.*;
 import java.util.Scanner;
 class Tablice{
 	public static void main(String [] a){
-		Random r = new Random();
-		int oceny[] = new int[10];
-        for (int i=0;i<oceny.length;i++){
-            oceny[i] = r.nextInt(6) +1;
-        }
-		String nazwa[] = {"Jakub Sawicki","Tomasz Stepien","Szymon Rychter","Pawel Domagala","Franek Mierzwiak","Mateusz Jagiela","Kamil Ociepa","Maciej Szczypta","Maciej Kolpaczek","Michal Zuterek"};
-	    for(int i=0;i<nazwa.length;i++){
-            System.out.println(nazwa[i]+" ocena: "+oceny[i]);
+		try{
+			Random r = new Random();			
+			Scanner sc = new Scanner(new File("Uczniowie.txt"));
+			int oceny[] = new int[10];
+			for (int i=0;i<oceny.length;i++){
+				while(sc.hasNext()){
+					oceny[i] = r.nextInt(6) +1;
+					String j = sc.nextLine();
+					System.out.println(j+" ocena: "+oceny[i]);
+				}
+			}
+        }catch (FileNotFoundException ex){
+            System.out.println("ERROR -> "+ex.toString());
         }	
 	}
 }
