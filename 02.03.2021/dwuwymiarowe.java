@@ -7,7 +7,7 @@ class TabliceDwuwymiarowa{
 		tab[1][1] = 4;
 		for (int i=0;i<tab.length;i++){
             for(int j=0;j<tab[i].length;j++){
-                System.out.println(tab[i][j]+" "+tab[i][j]);			
+                System.out.println(tab[i][j]);			
 			}
 		}
 	}
