@@ -1,5 +1,3 @@
-DaneOsobowe.java
-
 class DaneOsobowe{
     private String pesel = "12345678910";
     public int wiek = 20;
