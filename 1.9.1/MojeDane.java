@@ -1,7 +1,7 @@
 class MojeDane{
-	public String imie = "Jakub";
-	public String nazwisko = "Sawicki";
-	public String klasa = "2PTN";
+	public String imie = "";
+	public String nazwisko = "";
+	public String klasa = "";
 	
 	public MojeDane(String imie, String nazwisko, String klasa){
 		this.imie = imie;
