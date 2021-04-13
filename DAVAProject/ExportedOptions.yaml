@@ -1,0 +1,87 @@
+keyedArchive:
+    AnisotropicFiltering:
+        string: "Off"
+    Antialiasing:
+        string: "Off"
+    BattleChat:
+        string: "TeamAndGeneral"
+    Camouflage:
+        string: "ForAll"
+    ControlType:
+        string: "Touch"
+    DamageMarkerStyle:
+        string: "Ray"
+    EffectsQuality:
+        string: "Medium"
+    FPSLimit:
+        string: "60"
+    FogQuality:
+        string: "Medium"
+    FollowAimManualModeArcade:
+        string: "true"
+    FollowAimManualModeSniper:
+        string: "true"
+    Fullscreen:
+        string: "true"
+    GamepadSensitivity:
+        string: "1.200000"
+    GamepadSensitivityInSniperMode:
+        string: "1.000000"
+    GrassInSniperMode:
+        string: "false"
+    GrassQuality:
+        string: "Low"
+    HDTextures:
+        string: "true"
+    HalfResolution:
+        string: "false"
+    HitMarks:
+        string: "false"
+    LevelOfDetail:
+        string: "Medium"
+    Minimap:
+        string: "true"
+    MinimapSize:
+        string: "3X"
+    MouseSensitivity:
+        string: "0.902720"
+    MouseSensitivityInSnipperMode:
+        string: "1.000000"
+    MusicVolume:
+        string: "0.050532"
+    MuteInBackground:
+        string: "true"
+    ObjectsQuality:
+        string: "Medium"
+    Quality:
+        string: "Customized"
+    ReplaysLimit:
+        string: "50"
+    ShadowQuality:
+        string: "On(StencilOnly)"
+    Shadows:
+        string: "false"
+    SoundVolume:
+        string: "0.053191"
+    TankTreads:
+        string: "false"
+    VSync:
+        string: "true"
+    VehiclesQuality:
+        string: "Medium"
+    WaterQuality:
+        string: "Medium"
+    WriteReplays:
+        string: "false"
+    smartDLC.AskedAboutDownloadHDTextures:
+        string: "false"
+    smartDLC.AskedAboutWiFiDownload:
+        string: "false"
+    smartDLC.CrewVoicesNotificationShown:
+        string: "false"
+    smartDLC.DownloadFullClient:
+        string: "false"
+    smartDLC.DownloadHDTextures:
+        string: "false"
+    smartDLC.WifiDownloadOnly:
+        string: "true"

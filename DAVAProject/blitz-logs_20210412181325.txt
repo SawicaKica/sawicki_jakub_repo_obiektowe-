@@ -1,0 +1,811 @@
+17:13:26 [info] 18:13:26 +1 [engine] DeviceInfo::GetGPUModel():  AMD Radeon(TM) Vega 3 Graphics
+17:13:26 [info] 18:13:26 +1 [engine] Network type:  NETWORK_TYPE_WIFI
+17:13:26 [error] [YamlParser::Parse] Can't Open file C:/Users/sawic/Documents/DAVAProject/logTags.yaml for read
+17:13:26 [info] EngineBackend::OnGameLoopStarted: enter
+17:13:26 [info] GameCore::OnAppStarted begin
+17:13:28 [info] 18:13:28 +1 [wwise] Wwise sound system was successfully initialized.
+17:13:28 [info] SetBattleState unknown
+17:13:28 [info] 18:13:28 +1 [base] Vendor OS version:  no
+17:13:28 [info] Device kind: Desktop
+17:13:28 [info] Device display: 15.63" (13.66"x7.60")
+17:13:28 [info] GameCore::OnAppStarted done
+17:13:28 [info] EngineBackend::OnGameLoopStarted: leave
+17:13:28 [info] Window::HandleWindowCreated: enter
+17:13:29 [info] [RHI-DX11] Creating device
+17:13:29 [info] [RHI-DX11] available adapters:
+17:13:29 [info] 0 : 'AMD Radeon(TM) Vega 3 Graphics' (vendor: 0x1002, subsystem: 0x84AE103C), feature level: 0xb000 (11.0)
+17:13:29 [info] 1 : 'Microsoft Basic Render Driver' (vendor: 0x1414, subsystem: 0x0000), feature level: 0xb000 (11.0)
+17:13:29 [info] [RHI-DX11] Using adapter `AMD Radeon(TM) Vega 3 Graphics` (vendor: 1002, subsystem: 84AE103C)
+17:13:29 [info] [RHI-DX11] Creating device without selected adapter
+17:13:29 [info] [RHI-DX11] Init with feature level: 0xb000 (11.0)
+17:13:29 [info] [RHI-DX11] Using retrieved adapter `AMD Radeon(TM) Vega 3 Graphics` (vendor: 0x1002, subsystem: 0x84AE103C)
+17:13:29 [info] [RHI-DX11] Selected adapter has 241 Mb of video memory
+17:13:29 [info] [RHI-DX11] OS registry version: 6.3.18363, is running on Win10: 0
+17:13:29 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+17:13:29 [info] [RHI-DX11] Reset targets and views
+17:13:29 [info] [RHI-DX11] Clear context state
+17:13:29 [info] [RHI-DX11] Flush context
+17:13:29 [info] [RHI-DX11] Resize swapchain buffers to size {1024, 689}
+17:13:29 [info] [RHI-DX11] hardware command buffers enabled: 0
+17:13:29 [info] [RHI-DX11] Typeless texture formats supported: 1
+17:13:29 [info] Rendering thread started
+17:13:30 [info] 18:13:30 +1 [render] DeviceInfo::GetGPUModel():  AMD Radeon(TM) Vega 3 Graphics
+17:13:30 [info] [Renderer] DeviceTier: Low
+17:13:30 [info] [Renderer] CurrentFlow: Forward
+17:13:30 [info] [Renderer] Is Forward with Depth Prepass Supported: YES
+17:13:30 [info] [Renderer] Is PBP Supported: NO
+17:13:30 [info] [Renderer] Is Shadow Mapping Supported: YES
+17:13:30 [info] [Renderer] Max Anisotropy: 16
+17:13:30 [info] [Renderer] Max Texture Size: 16384
+17:13:30 [info] [Renderer] Max Vertex Attributes Count: 16
+17:13:30 [info] [Renderer] Max Varying Vectors Count: 15
+17:13:30 [info] [Renderer] Max MRT Count: 4;
+17:13:30 [info] [Renderer] is32BitIndicesSupported: YES
+17:13:30 [info] [Renderer] isVertexTextureUnitsSupported: YES
+17:13:30 [info] [Renderer] armOpenglDepthStencilFetchSupported: NO
+17:13:30 [info] [Renderer] armOpenglColorFetchSupported: NO
+17:13:30 [info] [Renderer] extOpenglColorFetchSupported: NO
+17:13:30 [info] [Renderer] metalColorFetchSupported: NO
+17:13:30 [info] [Renderer] isUpperLeftRTOrigin: YES
+17:13:30 [info] [Renderer] isZeroBaseClipRange: YES
+17:13:30 [info] [Renderer] isCenterPixelMapping: NO
+17:13:30 [info] [Renderer] isInstancingSupported: YES
+17:13:30 [info] [Renderer] isPerfQuerySupported: YES
+17:13:30 [info] [Renderer] isDisjointPerfQuerySupported: NO
+17:13:30 [info] [Renderer] isComparisonSamplerSupported: YES
+17:13:30 [info] [Renderer] isBaseInstanceSupported: YES
+17:13:30 [info] [Renderer] isInstanceIdSupported: YES
+17:13:30 [info] [Renderer] framebufferDiscardSupported: NO
+17:13:30 [info] [Renderer] isD24S8FormatSupported: YES
+17:13:30 [info] [Renderer] isMemoryLessSupported: NO
+17:13:30 [info] [Renderer] retrieveTileDataAllowed: YES
+17:13:30 [info] [Renderer] isAstcCompressionSupported: NO
+17:13:31 [info] GameCore::OnWindowCreated begin
+17:13:31 [info] Desirable resource folder: Gfx
+17:13:31 [info] 18:13:31 +1 [graphics_options_module] Device tags: [Win32, , manufacturer-, maxFps-60, windows-low-tier]
+17:13:31 [info] 18:13:31 +1 [graphics_options_module] Detected preset: WindowsLowTier
+17:13:31 [info] GameCore::OnWindowCreated done
+17:13:31 [info] Window::HandleWindowCreated: leave
+17:13:31 [info] Window::HandleVisibilityChanged: become visible
+17:13:31 [info] GameCore::OnForeground
+17:13:31 [info] [RHI-DX11] ResetBlock, resizing swapchain.
+17:13:31 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+17:13:31 [info] [RHI-DX11] Reset targets and views
+17:13:31 [info] [RHI-DX11] Clear context state
+17:13:31 [info] [RHI-DX11] Flush context
+17:13:31 [info] [RHI-DX11] Resize swapchain buffers to size {1366, 768}
+17:13:32 [info] AppContextImpl::InitializeLocalizations device locale: pl, locale: pl, game locale: pl, sound locale: pl, 
+17:13:32 [info] 18:13:32 +1 [http] UrlRequest::Reset 0DDE7C18
+17:13:32 [info] 18:13:32 +1 [http] UrlRequest::Start this= 0DDE7C18 thread= 30476
+17:13:32 [info] 18:13:32 +1 [http] UrlRequest::StartAsync 0DDE6FB8
+17:13:32 [info] 18:13:32 +1 [http] UrlRequest::Start this= 0DDE6FB8 thread= 29816
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Water = HIGH
+17:13:32 [info] 18:13:32 +1 [render] Draw Water Reflection / Refraction: 0
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Static object = LOW
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Landscape = MEDIUM
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Decoration Objects = OFF
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Reflections = LOW
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Tank = MEDIUM
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: Vegetation = HIGH
+17:13:32 [info] 18:13:32 +1 [render] Material group quality: VegetationCount = regular
+17:13:34 [info] 18:13:34 +1 [net] Read server regions yaml.
+17:13:34 [error] 18:13:34 +1 [base] Request to switch to current screen: ConnectingScreen
+17:13:34 [info] 18:13:34 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 6
+17:13:34 [info] Timezone: Europe/Warsaw, eu
+17:13:34 [info] 18:13:34 +1 [http] UrlRequest::StartAsync 0E2A3320
+17:13:34 [info] 18:13:34 +1 [http] UrlRequest::Start this= 0E2A3320 thread= 30476
+17:13:34 [error] 18:13:34 +1 [base] Request to switch to current screen: ConnectingScreen
+17:13:34 [info] 18:13:34 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 8
+17:13:35 [info] 18:13:35 +1 [http] UrlRequest::StartInSeparateThread 0E2A3320 wasCancelled= 0
+17:13:35 [info] 18:13:35 +1 [http] UrlRequest::StartInSeparateThread 0DDE6FB8 wasCancelled= 0
+17:13:37 [error] 18:13:37 +1 [base] Request to switch to current screen: ConnectingScreen
+17:13:37 [info] 18:13:37 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 10
+17:13:37 [error] 18:13:37 +1 [base] Request to switch to current screen: ConnectingScreen
+17:13:37 [info] 18:13:37 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 10
+17:13:44 [warning] 18:13:44 +1 [net] Server: login0.wotblitz.eu:20016, ip: 92.223.31.132:20016, avg ping: 252.372498ms, loss: 50.0%
+17:13:44 [warning] 18:13:44 +1 [net] ClusterHost::SelectAddress : name = EU_C0, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.132:20016 push_back
+17:13:44 [warning] 18:13:44 +1 [net] ClusterHost::SelectAddress : name = EU_C1, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.138:20016 push_back
+17:13:48 [warning] 18:13:48 +1 [BW] W LoginHandler::onRequestFailed: Request to LoginApp 92.223.31.132:20016, attempt #2 failed: "Cancelled request to LoginApp 92.223.31.132:20016" (REASON_SHUTTING_DOWN)
+17:13:48 [warning] 18:13:48 +1 [BW] W LoginHandler::onRequestFailed: Request to LoginApp 92.223.31.132:20016, attempt #3 failed: "Cancelled request to LoginApp 92.223.31.132:20016" (REASON_SHUTTING_DOWN)
+17:13:48 [warning] 18:13:48 +1 [BW] W LoginHandler::onRequestFailed: Request to LoginApp 92.223.31.132:20016, attempt #4 failed: "Cancelled request to LoginApp 92.223.31.132:20016" (REASON_SHUTTING_DOWN)
+17:13:48 [warning] 18:13:48 +1 [BW] W RequestManager::handleMessage( 92.223.31.132:20016 ): Couldn't find handler for reply id 0x00013afd (maybe it timed out?)
+17:13:48 [warning] 18:13:48 +1 [BW] W RequestManager::handleMessage( 92.223.31.132:20016 ): Couldn't find handler for reply id 0x00013afe (maybe it timed out?)
+17:13:48 [warning] 18:13:48 +1 [BW] W RequestManager::handleMessage( 92.223.31.132:20016 ): Couldn't find handler for reply id 0x00013aff (maybe it timed out?)
+17:13:49 [warning] 18:13:49 +1 [BW] W ServerConnection::send(0): Time since last send to server: 21469ms
+17:13:49 [info] 18:13:49 +1 [net] ConnectionManager::onLoggedOn message: {"dbid":576287409,"externals":["email"],"name":"SawicaKica","security_msg":"no_phone","state":150077473,"token2":"576287409:6597596119658799652:68090188124434100495019243172846022394"}
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::StartAsync 0E2A3CE0
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::StartAsync 0E2A4100
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::Start this= 0E2A3CE0 thread= 20524
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::Start this= 0E2A4100 thread= 29816
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::Reset 0E2A4280
+17:13:49 [info] 18:13:49 +1 [http] UrlRequest::Start this= 0E2A4280 thread= 8168
+17:13:52 [info] 18:13:52 +1 [http] UrlRequest::StartInSeparateThread 0E2A4100 wasCancelled= 0
+17:13:52 [info] 18:13:52 +1 [http] UrlRequest::StartInSeparateThread 0E2A3CE0 wasCancelled= 0
+17:13:52 [error] 18:13:52 +1 [http] Curl error: Timeout was reached this= 0E2A4280
+17:13:52 [info] 18:13:52 +1 [http] UrlRequest::Reset 0E2A4280
+17:13:52 [info] 18:13:52 +1 [http] UrlRequest::Start this= 0E2A4280 thread= 8168
+17:13:55 [error] 18:13:55 +1 [http] Curl error: Timeout was reached this= 0E2A4280
+17:13:55 [info] 18:13:55 +1 [http] UrlRequest::Reset 0E2A4280
+17:13:55 [info] 18:13:55 +1 [http] UrlRequest::Start this= 0E2A4280 thread= 8168
+17:13:58 [error] 18:13:58 +1 [http] Curl error: Timeout was reached this= 0E2A4280
+17:13:59 [warning] 18:13:59 +1 [assert,base] ============ ASSERT ===========
+request->IsLastResultSuccessful() && request->GetHttpStatus() == Web::eHttpStatus::NOT_MODIFIED
+Failed to load localization from https://stufficons.wotblitz.com/localizations/pl.yaml with HTTP result 200
+File: D:\ba\tc\work\r\client\Classes\Utils\LocalizationHelper.cpp
+Line : 518
+    # 0: [0122649F] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 1: [013D4EFC] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 2: [00A530C3] wotblitz.exe!AK::ReadBytesSkip::Count
+    # 3: [011855FE] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 4: [01184C14] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 5: [00B9CC7E] wotblitz.exe!AK::WriteBytesCount::SetCount
+    # 6: [00B9CDAF] wotblitz.exe!AK::WriteBytesCount::SetCount
+    # 7: [011759DB] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 8: [013549FC] wotblitz.exe!AK::WriteBytesMem::SetCount
+    # 9: [0274E5E2] wotblitz.exe!AK::GetWwiseXAudio2Interface
+    #10: [02737F8F] wotblitz.exe!AK::GetWwiseXAudio2Interface
+    #11: [0273A6E6] wotblitz.exe!AK::GetWwiseXAudio2Interface
+    #12: [0168CF19] wotblitz.exe!AK::WriteBytesCount::Clear
+    #13: [013545B5] wotblitz.exe!AK::WriteBytesMem::SetCount
+    #14: [011981F4] wotblitz.exe!AK::WriteBytesMem::SetCount
+    #15: [0097C1A4] 
+    #16: [0098313C] 
+    #17: [00B33DFF] wotblitz.exe!AK::ReadBytesSkip::Count
+    #18: [00B34ADA] wotblitz.exe!AK::ReadBytesSkip::Count
+    #19: [00B11516] wotblitz.exe!AK::ReadBytesSkip::Count
+    #20: [00B107DF] wotblitz.exe!AK::ReadBytesSkip::Count
+    #21: [00CC6EB9] wotblitz.exe!AK::WriteBytesCount::SetCount
+    #22: [00B1104F] wotblitz.exe!AK::ReadBytesSkip::Count
+    #23: [00976DAE] 
+    #24: [027C5C25] wotblitz.exe!AK::GetWwiseXAudio2Interface
+    #25: [025171AD] wotblitz.exe!AK::WriteBytesMem::Clear
+    #26: [75496359] wotblitz.exe!BaseThreadInitThunk
+    #27: [77B18964] wotblitz.exe!RtlGetAppContainerNamedObjectPath
+    #28: [77B18934] wotblitz.exe!RtlGetAppContainerNamedObjectPath
+============ ASSERT_END ========
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_8_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level5/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level2/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/clan_task_journal_chest_epict/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/avatar_cyberpunk2077_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/AttachmentCertificate/Feature
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunexinewunexistedkeystedkey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_7_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_blitzstaff_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key vatars/Items/Seniority3years/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level5/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level8/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_3_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChinaHalloweenChest/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level1/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunexistenewunexistedkeydkey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_helsing/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level7/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChinaHalloweenChest/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level4/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level7/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_10_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level6/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_4_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_4_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level5/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level2/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_dracula/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ProgressChestChina/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level4/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level1/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level10/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level2/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level3/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level3/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level4/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level6/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level7/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level8/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level9/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level9/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_event/booster_bth2020_unique/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/newcomers7x7_item/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_3years_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/china2years/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/china2years/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_5years_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_6years_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_dracula/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunewunexistedkeynexistedkey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_6_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_helsing/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/CustomBG/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/chest_FV_217_Badger_china/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_blitzstaff_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key descriptionString
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_1year_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_2years_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key zdes_padaet_proxy
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/avatar_4years_legendary/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_Caernarvon_AX_China/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/Chest_Chi_Nu_Kai_China/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_6_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_10_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_3_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_5_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_5_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_7_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_8_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_9_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_item_9_legendary/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/bth2020_chest/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_china-summer2020/prx_china-summer2020Proxy/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunexistedkey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunexistedknewunexistedkeyey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunexistednewunexistedkeykey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key ob_test_stuff_mass_6
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_werewolf/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_werewolf/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key newunnewunexistedkeyexistedkey
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level1/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level6/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level8/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level9/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_newcomers2020/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/avatar_cyberpunk2077_legendary/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Feature
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/prx_newcomers7x7/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/avatar_progressive_rank_1Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/resource_removing_item_common/Features
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/resource_removing_item_common/Description
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/resource_removing_item_common/Obtainment
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key storage/Items/resource_removing_item_common/Title
+17:13:59 [warning] 18:13:59 +1 [base] Non string value returned by key avatars/Items/avatar_progressive_rank_1/Title
+17:13:59 [info] 18:13:59 +1 [base] Dynamic localizations setup completed.
+17:13:59 [info] 18:13:59 +1 [base] Dynamic localizations loaded from local file:  C:/Users/sawic/Documents/DAVAProject/cache/localizations/pl.yaml
+17:13:59 [warning] 18:13:59 +1 [BW] W ServerConnection::processInput(0): There were 9602 ms between packets
+17:14:03 [warning] 18:14:03 +1 [BW] W ServerConnection::processInput(0): There were 3657 ms between packets
+17:14:03 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/survey_Europe_576287409L.dat" not exists.
+17:14:03 [info] 18:14:03 +1 [base] TestSystem: Server does not confirm group, but test disabled. Clear cached data.
+17:14:03 [info] 18:14:03 +1 [base] TestSystem: Could not clean test cached data. Maybe files does not exists?
+17:14:03 [info] 18:14:03 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+17:14:03 [info] AccountGameLogic::onBecomePlayer() 7352762 610
+17:14:03 [info] 18:14:03 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+17:14:03 [info] 18:14:03 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+17:14:03 [info] 18:14:03 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+17:14:03 [error] 18:14:03 +1 [base] Request to switch to current screen: ConnectingScreen
+17:14:03 [info] 18:14:03 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 610
+17:14:03 [error] 18:14:03 +1 [base] Request to switch to current screen: ConnectingScreen
+17:14:03 [info] 18:14:03 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 614
+17:14:03 [info] 18:14:03 +1 [base] Shop state is not synchronized 2
+17:14:05 [error] 18:14:05 +1 [shop] No prices fetched, clearing! steam
+17:14:08 [info] 18:14:08 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> GarageScreen:42 906
+17:14:08 [info] 18:14:08 +1 [base] Shop state is not synchronized 0
+17:14:08 [info] 18:14:08 +1 [base] Shop state is not synchronized 0
+17:14:08 [warning] 18:14:08 +1 [ads] Player id is not configured!
+17:14:08 [warning] 18:14:08 +1 [ads] IronSource application key is not configured!
+17:14:09 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+17:14:09 [info] GarageScreen::LoadResources begin
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Water = HIGH
+17:14:09 [info] 18:14:09 +1 [render] Draw Water Reflection / Refraction: 0
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Static object = LOW
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Landscape = MEDIUM
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Decoration Objects = OFF
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Reflections = LOW
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Tank = MEDIUM
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: Vegetation = HIGH
+17:14:09 [info] 18:14:09 +1 [render] Material group quality: VegetationCount = regular
+17:14:09 [info] 18:14:09 +1 [base] Controller activated: HangarLoadingController
+17:14:09 [info] 18:14:09 +1 [base] Shop state is not synchronized 2
+17:14:11 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/BlinnPhongAllQualities.material, using default QualityDependentUniqueDefines.
+17:14:12 [info] 18:14:12 +1 [chat] XChatInstance::onClientCreated
+17:14:13 [warning] WGXmppClientPrivate::onConnect
+17:14:13 [info] 18:14:13 +1 [chat] XChatInstance::onConnect()
+17:14:14 [info] 18:14:14 +1 [chat] block list size 0
+17:14:49 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_08/settings.yaml for read
+17:14:49 [warning] 18:14:49 +1 [story] could not create parser:  ~res:/Stories/bp_season_08/settings.yaml
+17:14:49 [info] 18:14:49 +1 [base] Shop state is not synchronized 2
+17:14:51 [info] 18:14:51 +1 [base] Controller deactivated: HangarLoadingController
+17:14:51 [info] 18:14:51 +1 [base] Controller activated: WelcomeController
+17:14:55 [info] 18:14:55 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  CloseButton  -> event:  CLOSE_EVENT_FROM_BUTTON , control: CloseButtonWrapper
+17:14:55 [info] 18:14:55 +1 [base] Controller deactivated: WelcomeController
+17:14:55 [info] 18:14:55 +1 [base] Controller activated: HangarController
+17:14:55 [info] 18:14:55 +1 [prebattle] SquadController::Activate
+17:15:01 [warning] 18:15:01 +1 [BW] W ServerConnection::processInput(7352762): There were 5824 ms between packets
+17:15:01 [info] 18:15:01 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:15:01 [info] 18:15:01 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:15:33 [info] 18:15:33 +1 [ui] UIDataParams redirect event:  SHOP_BUTTON , control:  ShopButton  -> event:  SHOP_BUTTON , control: BaseHeader
+17:15:33 [info] 18:15:33 +1 [ui] UIDataParams redirect event:  SHOP_BUTTON , control:  BaseHeader  -> event:  SHOP_BUTTON , control: HangarHeader
+17:15:33 [info] 18:15:33 +1 [ui] UIDataParams redirect event:  SHOP_BUTTON , control:  HangarHeader  -> event:  SHOP_BUTTON , control: Header
+17:15:33 [info] 18:15:33 +1 [prebattle] SquadController::Deactivate
+17:15:33 [info] 18:15:33 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:15:33 [info] 18:15:33 +1 [base] Controller deactivated: HangarController
+17:15:33 [info] 18:15:33 +1 [base] Controller activated: ShopController
+17:15:33 [info] 18:15:33 +1 [tutorial] Lesson destroyed: chatLesson
+17:15:34 [info] 18:15:34 +1 [base] Controller activated: OffersTabController
+17:15:38 [info] 18:15:38 +1 [ui] UIDataParams redirect event:  ON_SELECT_TAB , control:  TextTabsBar  -> event:  ON_SELECT_TAB , control: Tabs
+17:15:38 [info] 18:15:38 +1 [base] Controller deactivated: OffersTabController
+17:15:39 [info] 18:15:39 +1 [base] Controller activated: DailyChestsController
+17:15:41 [info] 18:15:41 +1 [base] Controller deactivated: DailyChestsController
+17:15:41 [info] 18:15:41 +1 [base] Controller deactivated: ShopController
+17:15:41 [info] 18:15:41 +1 [base] Controller activated: ChestUsageController
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [error] 18:15:41 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:41 [info] 18:15:41 +1 [ui] UIDataParams redirect event:  CLOSE_NOTIFICATION , control:  FullscreenPopupWithContentSlot  -> event:  ON_CLOSE , control: UI2DView
+17:15:43 [info] 18:15:43 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  Button  -> event:  CLAIM_REWARDS , control: ClaimButtonHolder
+17:15:43 [info] 18:15:43 +1 [ui] UIDataParams redirect event:  CLAIM_REWARDS , control:  ChestUsageContent  -> event:  ON_CLOSE , control: ChestUsage
+17:15:43 [info] 18:15:43 +1 [base] Controller deactivated: ChestUsageController
+17:15:43 [info] 18:15:43 +1 [base] Controller activated: ShopController
+17:15:43 [info] 18:15:43 +1 [base] Controller activated: DailyChestsController
+17:15:44 [info] 18:15:44 +1 [base] Controller deactivated: DailyChestsController
+17:15:44 [info] 18:15:44 +1 [base] Controller deactivated: ShopController
+17:15:44 [info] 18:15:44 +1 [base] Controller activated: ChestUsageController
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [error] 18:15:44 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:44 [info] 18:15:44 +1 [ui] UIDataParams redirect event:  CLOSE_NOTIFICATION , control:  FullscreenPopupWithContentSlot  -> event:  ON_CLOSE , control: UI2DView
+17:15:45 [info] 18:15:45 +1 [ui] UIDataParams redirect event:  CLOSE_NOTIFICATION , control:  FullscreenPopupWithContentSlot  -> event:  ON_CLOSE , control: UI2DView
+17:15:45 [info] 18:15:45 +1 [base] Controller deactivated: ChestUsageController
+17:15:45 [info] 18:15:45 +1 [base] Controller activated: ShopController
+17:15:45 [info] 18:15:45 +1 [base] Controller activated: DailyChestsController
+17:15:46 [info] 18:15:46 +1 [base] Controller deactivated: DailyChestsController
+17:15:46 [info] 18:15:46 +1 [base] Controller deactivated: ShopController
+17:15:46 [info] 18:15:46 +1 [base] Controller activated: ChestUsageController
+17:15:46 [warning] 18:15:46 +1 [engine] Failed to create sprite: Gfx/UI/StorageItemIcons/.txt
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [error] 18:15:46 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:15:46 [info] 18:15:46 +1 [ui] UIDataParams redirect event:  CLOSE_NOTIFICATION , control:  FullscreenPopupWithContentSlot  -> event:  ON_CLOSE , control: UI2DView
+17:15:47 [info] 18:15:47 +1 [ui] UIDataParams redirect event:  CLOSE_NOTIFICATION , control:  FullscreenPopupWithContentSlot  -> event:  ON_CLOSE , control: UI2DView
+17:15:47 [info] 18:15:47 +1 [base] Controller deactivated: ChestUsageController
+17:15:47 [info] 18:15:47 +1 [base] Controller activated: ShopController
+17:15:47 [info] 18:15:47 +1 [base] Controller activated: DailyChestsController
+17:15:47 [info] 18:15:47 +1 [ui] UIDataParams redirect event:  ON_SELECT_TAB , control:  TextTabsBar  -> event:  ON_SELECT_TAB , control: Tabs
+17:15:47 [info] 18:15:47 +1 [base] Controller deactivated: DailyChestsController
+17:15:47 [info] 18:15:47 +1 [base] Controller activated: OffersTabController
+17:16:00 [info] 18:16:00 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BuyButton  -> event:  ON_BUY_CLICKED , control: RightPart
+17:16:00 [info] 18:16:00 +1 [ui] UIDataParams redirect event:  ON_BUY_CLICKED , control:  Footer  -> event:  ON_BUY_CLICKED , control: Screen
+17:16:01 [info] 18:16:01 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ButtonPositive  -> event:  ACCENT_ACTION , control: ButtonAccept
+17:16:01 [info] 18:16:01 +1 [ui] UIDataParams redirect event:  ACCENT_CLICKED , control:  InfoTextDialog  -> event:  CONFIRMATION , control: NotEnoughStuffDialog
+17:17:34 [info] 18:17:34 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+17:17:34 [info] 18:17:34 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: BaseHeader
+17:17:34 [info] 18:17:34 +1 [base] Controller deactivated: OffersTabController
+17:17:34 [info] 18:17:34 +1 [base] Controller deactivated: ShopController
+17:17:34 [info] 18:17:34 +1 [base] Controller activated: HangarController
+17:17:34 [info] 18:17:34 +1 [prebattle] SquadController::Activate
+17:17:34 [info] 18:17:34 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:17:34 [info] 18:17:34 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:17:34 [info] 18:17:34 +1 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  PUSH , control:  ButtonDecorator  -> event:  PUSH , control: ContentHolder
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  PULL , control:  ButtonDecorator  -> event:  PULL , control: ContentHolder
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  ON_TOUCH , control:  ButtonDecorator  -> event:  ON_TOUCH , control: ContentHolder
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  ON_TOUCH , control:  StoryButton  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: StoryBoxHolder
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  ON_BATTLEPASS_BTN_CLICKED , control:  BattlePassBoxWidget  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: BattlePassButton
+17:17:35 [info] 18:17:35 +1 [ui] UIDataParams redirect event:  ON_BATTLEPASS_BTN_CLICKED , control:  StoryFragment  -> event:  ON_BATTLEPASS_BTN_CLICKED , control: StoryButtonsHolder
+17:17:35 [info] 18:17:35 +1 [prebattle] SquadController::Deactivate
+17:17:35 [info] 18:17:35 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:17:35 [warning] 18:17:35 +1 [ui] [UIEventsSystem] More then one event on frame ' ON_HOVER_END ' occured after ' ON_TOUCH_UP_INSIDE '
+17:17:35 [info] 18:17:35 +1 [base] Controller deactivated: HangarController
+17:17:35 [info] 18:17:35 +1 [base] Controller activated: BattlePassController
+17:17:35 [info] 18:17:35 +1 [tutorial] Lesson destroyed: trainingRoomsLesson
+17:17:36 [error] 18:17:36 +1 [ui] Style sheet can not find component UITextureComponent in control Texture
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:37 [error] 18:17:37 +1 [ui] Style sheet can not find component UITextComponent in control BodyBold
+17:17:45 [info] 18:17:45 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  freeReward_0  -> event:  ON_REWARD_CLICKED , control: FreeRewards
+17:17:45 [info] 18:17:45 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  levelRewardWithEffect0  -> event:  ON_REWARD_CLICKED , control: LevelsRewards
+17:17:46 [info] 18:17:46 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  freeReward_0  -> event:  ON_REWARD_CLICKED , control: FreeRewards
+17:17:46 [info] 18:17:46 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  levelRewardWithEffect0  -> event:  ON_REWARD_CLICKED , control: LevelsRewards
+17:17:46 [info] 18:17:46 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: RewardInfoPopup
+17:17:46 [info] 18:17:46 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  RewardInfoPopup  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+17:17:47 [info] 18:17:47 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  freeReward_0  -> event:  ON_REWARD_CLICKED , control: FreeRewards
+17:17:47 [info] 18:17:47 +1 [ui] UIDataParams redirect event:  ON_REWARD_CLICKED , control:  levelRewardWithEffect0  -> event:  ON_REWARD_CLICKED , control: LevelsRewards
+17:17:47 [info] 18:17:47 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: RewardInfoPopup
+17:17:47 [info] 18:17:47 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  RewardInfoPopup  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_BUTTON_CLICKED , control: Header
+17:17:48 [info] 18:17:48 +1 [base] Controller deactivated: BattlePassController
+17:17:48 [info] 18:17:48 +1 [base] Controller activated: HangarController
+17:17:48 [info] 18:17:48 +1 [prebattle] SquadController::Activate
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+17:17:48 [info] 18:17:48 +1 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+17:17:49 [info] 18:17:49 +1 [ui] UIDataParams redirect event:  TOURNAMENTS_PRESSED , control:  SideBar  -> event:  TOURNAMENTS_PRESSED , control: SideBar
+17:17:50 [info] 18:17:50 +1 [prebattle] SquadController::Deactivate
+17:17:50 [info] 18:17:50 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:17:50 [info] 18:17:50 +1 [base] Controller deactivated: HangarController
+17:17:50 [info] 18:17:50 +1 [base] Controller activated: Tournament
+17:17:50 [info] 18:17:50 +1 [tutorial] Lesson destroyed: chatLesson
+17:17:50 [info] 18:17:50 +1 [base] Controller activated: TournamentList
+17:17:50 [info] 18:17:50 +1 [base] Controller deactivated: TournamentList
+17:17:50 [info] 18:17:50 +1 [base] Controller deactivated: Tournament
+17:17:50 [info] 18:17:50 +1 [base] Controller activated: HangarController
+17:17:50 [info] 18:17:50 +1 [prebattle] SquadController::Activate
+17:17:50 [info] 18:17:50 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:17:50 [info] 18:17:50 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:17:51 [info] 18:17:51 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+17:17:51 [info] 18:17:51 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+17:17:55 [info] 18:17:55 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  IconButton  -> event:  CLOSE_OFFER , control: CloseButton
+17:17:55 [info] OffersRequester::SendExternalOfferResult prmp_postpone
+17:17:55 [info] 18:17:55 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+17:17:56 [info] 18:17:56 +1 [ui] UIDataParams redirect event:  ON_PRESSED , control:  PlayerAvatar  -> event:  ON_PRESSED , control: Avatar
+17:17:56 [info] 18:17:56 +1 [ui] UIDataParams redirect event:  ON_PRESSED , control:  AvatarWithRating  -> event:  AVATAR_PRESSED , control: Avatar
+17:17:56 [info] 18:17:56 +1 [ui] UIDataParams redirect event:  AVATAR_PRESSED , control:  SideBar  -> event:  SHOW_ACHIEVEMENTS , control: SideBar
+17:17:56 [info] 18:17:56 +1 [prebattle] SquadController::Deactivate
+17:17:56 [info] 18:17:56 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:17:56 [info] 18:17:56 +1 [base] Controller deactivated: HangarController
+17:17:56 [info] 18:17:56 +1 [base] Controller activated: ProfileController
+17:17:56 [info] 18:17:56 +1 [tutorial] Lesson destroyed: chatLesson
+17:17:56 [info] 18:17:56 +1 [base] Controller activated: UIBriefTabController
+17:17:57 [info] 18:17:57 +1 [ui] UIDataParams redirect event:  ON_PRESSED , control:  PlayerAvatar  -> event:  SHOW_AVATAR_INFO , control: PlayerInfo
+17:17:57 [info] 18:17:57 +1 [ui] UIDataParams redirect event:  SHOW_AVATAR_INFO , control:  PlayerInfo  -> event:  SHOW_AVATAR_INFO , control: Content
+17:17:57 [info] 18:17:57 +1 [ui] UIDataParams redirect event:  SHOW_AVATAR_INFO , control:  BriefTab  -> event:  SHOW_AVATAR_INFO , control: BriefTab
+17:17:58 [info] 18:17:58 +1 [base] Controller deactivated: UIBriefTabController
+17:17:58 [info] 18:17:58 +1 [base] Controller deactivated: ProfileController
+17:17:58 [info] 18:17:58 +1 [base] Controller activated: AvatarsScreenController
+17:17:58 [info] 18:17:58 +1 [base] Controller activated: AvatarDescriptionController
+17:17:58 [info] 18:17:58 +1 [base] Controller activated: MyAvatarsCategoryController
+17:18:01 [info] 18:18:01 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+17:18:01 [info] 18:18:01 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: AvatarsHeader
+17:18:01 [info] 18:18:01 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  AvatarsHeader  -> event:  BACK_EVENT , control: Header
+17:18:01 [info] 18:18:01 +1 [base] Controller deactivated: MyAvatarsCategoryController
+17:18:01 [info] 18:18:01 +1 [base] Controller deactivated: AvatarDescriptionController
+17:18:01 [info] 18:18:01 +1 [base] Controller deactivated: AvatarsScreenController
+17:18:01 [info] 18:18:01 +1 [base] Controller activated: ProfileController
+17:18:01 [info] 18:18:01 +1 [base] Controller activated: UIBriefTabController
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: Header
+17:18:02 [info] 18:18:02 +1 [base] Controller deactivated: UIBriefTabController
+17:18:02 [info] 18:18:02 +1 [base] Controller deactivated: ProfileController
+17:18:02 [info] 18:18:02 +1 [base] Controller activated: HangarController
+17:18:02 [info] 18:18:02 +1 [prebattle] SquadController::Activate
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:18:02 [info] 18:18:02 +1 [ui] UIDataParams redirect event:  NEWS_PRESSED , control:  SideBar  -> event:  NEWS_PRESSED , control: SideBar
+17:18:03 [info] 18:18:03 +1 [prebattle] SquadController::Deactivate
+17:18:03 [info] 18:18:03 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:18:03 [info] 18:18:03 +1 [base] Controller deactivated: HangarController
+17:18:03 [info] 18:18:03 +1 [base] Controller activated: NewsController
+17:18:03 [info] 18:18:03 +1 [tutorial] Lesson destroyed: chatLesson
+17:18:03 [info] 18:18:03 +1 [ui] UIDataParams redirect event:  NEWS_TAB_INIT , control:  NewsContent  -> event:  NEWS_TAB_INIT , control: Content
+17:18:05 [info] 18:18:05 +1 [base] Controller activated: NewsTabNotificationsController
+17:18:06 [info] 18:18:06 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  BackButton  -> event:  BACK_EVENT , control: BaseHeader
+17:18:06 [info] 18:18:06 +1 [ui] UIDataParams redirect event:  BACK_EVENT , control:  BaseHeader  -> event:  BACK_EVENT , control: Header
+17:18:06 [info] 18:18:06 +1 [base] Controller deactivated: NewsTabNotificationsController
+17:18:06 [info] 18:18:06 +1 [base] Controller deactivated: NewsController
+17:18:06 [info] 18:18:06 +1 [base] Controller activated: HangarController
+17:18:06 [info] 18:18:06 +1 [prebattle] SquadController::Activate
+17:18:06 [info] 18:18:06 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+17:18:06 [info] 18:18:06 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:18:06 [info] 18:18:06 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:18:07 [info] 18:18:07 +1 [ui] UIDataParams redirect event:  BATTLE_TYPE_PRESSED , control:  BattleButton  -> event:  BATTLE_TYPE_PRESSED , control: BattleButtonContainer
+17:18:07 [info] 18:18:07 +1 [prebattle] SquadController::Deactivate
+17:18:07 [info] 18:18:07 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:18:07 [info] 18:18:07 +1 [base] Controller deactivated: HangarController
+17:18:07 [info] 18:18:07 +1 [base] Controller activated: BattleTypeInfoController
+17:18:07 [info] 18:18:07 +1 [tutorial] Lesson destroyed: chatLesson
+17:18:07 [error] 18:18:07 +1 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/Login5.4/dust_vortex.sc2
+17:18:07 [error] 18:18:07 +1 [engine] SceneFileV2::LoadSceneArchive failed to open file: ~res:/3d/FX/UI/Login5.4/dust_vortex.sc2
+17:18:09 [info] 18:18:09 +1 [base] Controller deactivated: BattleTypeInfoController
+17:18:09 [info] 18:18:09 +1 [base] Controller activated: HangarController
+17:18:09 [info] 18:18:09 +1 [prebattle] SquadController::Activate
+17:18:10 [info] 18:18:10 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+17:18:10 [info] 18:18:10 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:18:10 [info] 18:18:10 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:18:10 [info] 18:18:10 +1 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButton  -> event:  BATTLE_BUTTON_PRESSED , control: BattleButtonContainer
+17:18:10 [info] 18:18:10 +1 [prebattle] SquadController::Deactivate
+17:18:10 [info] 18:18:10 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:18:10 [info] 18:18:10 +1 [base] Controller deactivated: HangarController
+17:18:10 [info] 18:18:10 +1 [base] Controller activated: RandomPrebattleController
+17:18:10 [info] 18:18:10 +1 [tutorial] Lesson destroyed: chatLesson
+17:18:12 [info] 18:18:12 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+17:18:12 [info] AccountGameLogic::onBecomeNonPlayer() 13789
+17:18:12 [info] 18:18:12 +1 [base] Controller deactivated: RandomPrebattleController
+17:18:12 [info] 18:18:12 +1 [prebattle] PrebattleRequester::SetRequestsProvider 0CAF487C
+17:18:12 [info] 18:18:12 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+17:18:12 [info] 18:18:12 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+17:18:12 [info] AvatarGameLogic::onBecomePlayer 13789
+17:18:12 [info] 18:18:12 +1 [battle] avatar comes to context
+17:18:12 [info] SetBattleState CREATED
+17:18:12 [info] 18:18:12 +1 [battle] Battle started on map: pliego
+17:18:12 [info] 18:18:12 +1 [net] Traceroute: Successfuly initialized
+17:18:12 [info] 18:18:12 +1 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> ArenaLoadingScreen:45067 13789
+17:18:12 [info] ClientArena::ClearVehicleMap 0
+17:18:13 [info] SetBattleState LOADING
+17:18:13 [warning] 18:18:13 +1 [battle] isAutodetect: 0 isRewinding: 0 typeId: class AvatarContextBattle
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Water = HIGH
+17:18:13 [info] 18:18:13 +1 [render] Draw Water Reflection / Refraction: 0
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Static object = LOW
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Landscape = MEDIUM
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Decoration Objects = OFF
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Reflections = LOW
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Tank = MEDIUM
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: Vegetation = HIGH
+17:18:13 [info] 18:18:13 +1 [render] Material group quality: VegetationCount = regular
+17:18:15 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SphericalLit.material, using default QualityDependentUniqueDefines.
+17:18:15 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SpeedTree.SphericalLit.material, using default QualityDependentUniqueDefines.
+17:18:19 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SphericalLit.material, using default QualityDependentUniqueDefines.
+17:18:21 [warning] Quality not defined for template: C:/Program Files (x86)/Steam/steamapps/common/World of Tanks Blitz/Data/Materials/SpeedTree.SphericalLit.material, using default QualityDependentUniqueDefines.
+17:18:24 [info] Cant purge lods: no render object
+17:18:24 [warning] 18:18:24 +1 [battle] Creating DetachTurret entity for vehicleId =  7435145
+17:18:24 [warning] 18:18:24 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:25 [info] Cant purge lods: no render object
+17:18:25 [warning] 18:18:25 +1 [battle] Creating DetachTurret entity for vehicleId =  7435144
+17:18:25 [warning] 18:18:25 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:26 [info] Cant purge lods: no render object
+17:18:26 [warning] 18:18:26 +1 [battle] Creating DetachTurret entity for vehicleId =  7435150
+17:18:26 [warning] 18:18:26 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:26 [info] Cant purge lods: no render object
+17:18:26 [warning] 18:18:26 +1 [battle] Creating DetachTurret entity for vehicleId =  7435139
+17:18:26 [warning] 18:18:26 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:27 [info] Cant purge lods: no render object
+17:18:27 [warning] 18:18:27 +1 [battle] Creating DetachTurret entity for vehicleId =  7435141
+17:18:27 [warning] 18:18:27 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:27 [warning] 18:18:27 +1 [battle] Creating DetachTurret entity for vehicleId =  7435142
+17:18:27 [warning] 18:18:27 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:28 [info] Cant purge lods: no render object
+17:18:28 [warning] 18:18:28 +1 [battle] Creating DetachTurret entity for vehicleId =  7435137
+17:18:28 [warning] 18:18:28 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:28 [info] Cant purge lods: no render object
+17:18:28 [warning] 18:18:28 +1 [battle] Creating DetachTurret entity for vehicleId =  7435147
+17:18:28 [warning] 18:18:28 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:29 [info] Cant purge lods: no render object
+17:18:29 [warning] 18:18:29 +1 [battle] Creating DetachTurret entity for vehicleId =  7435143
+17:18:29 [warning] 18:18:29 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:30 [warning] 18:18:30 +1 [battle] Creating DetachTurret entity for vehicleId =  7435140
+17:18:30 [warning] 18:18:30 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:30 [info] Cant purge lods: no render object
+17:18:30 [warning] 18:18:30 +1 [battle] Creating DetachTurret entity for vehicleId =  7435149
+17:18:30 [warning] 18:18:30 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:30 [info] Cant purge lods: no render object
+17:18:30 [warning] 18:18:30 +1 [battle] Creating DetachTurret entity for vehicleId =  7435138
+17:18:30 [warning] 18:18:30 +1 [battle] DetachTurret entity address: 03667AAC
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelViewImpl::SetViewHiddenCallback
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelViewImpl::SetViewShownCallback
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelViewImpl::HideFromScreen animationTime: 0.25 isOnScreen: 1 animate: 0
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelViewImpl::NotifyViewHidden
+17:18:34 [info] 18:18:34 +1 [booster] BoostersPanelController::NotifyPanelHidden
+17:18:34 [info] 18:18:34 +1 [base] ScreensFlow::RequestToShowScreen ArenaLoadingScreen:45067 -> BattleScreen:721077 13995
+17:18:34 [info] SetBattleState LOADED
+17:18:34 [info] 18:18:34 +1 [net] Traceroute::BackgroundWorker: Main thread started
+17:18:35 [info] 18:18:35 +1 [booster] BoostersPanelController::OnGameLogicComes
+17:18:35 [info] 18:18:35 +1 [booster] SendFactorsAndBoosters
+17:18:35 [info] 18:18:35 +1 [battle] HUDLayer::OnPeriodInfoUpdated: battle
+17:18:35 [info] 18:18:35 +1 [booster] BoostersPanelController::SetPanelActive activate: 0 isPanelActive: 0
+17:18:35 [info] 18:18:35 +1 [battle] game logic comes to tracer
+17:18:35 [info] Create RayTester
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Water = HIGH
+17:18:35 [info] 18:18:35 +1 [render] Draw Water Reflection / Refraction: 0
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Static object = LOW
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Landscape = MEDIUM
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Decoration Objects = OFF
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Reflections = LOW
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Tank = MEDIUM
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: Vegetation = HIGH
+17:18:35 [info] 18:18:35 +1 [render] Material group quality: VegetationCount = regular
+17:18:36 [error] 18:18:36 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/BattleScreenHUD/SightCursorSniper '
+17:18:36 [error] 18:18:36 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/BattleScreenHUD/SightCursor '
+17:18:36 [error] 18:18:36 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/antifragmentationLining.txt '
+17:18:36 [error] 18:18:36 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/steelRollers.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/BattleScreenHUD/RibbonEmbelishments/StripesSnow.psd '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/Consumables/smallRepairkit.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/Consumables/autoExtinguishers.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/wetCombatPack.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/stereoscope.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/carbonDioxide.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/grousers.txt '
+17:18:37 [error] 18:18:37 +1 [base] Try to load non-existent sprite: ' ~res:/Gfx/UI/InventoryIcons/Normal/OptionalDevices/filterCyclone.txt '
+17:18:38 [warning] 18:18:38 +1 [BW] W ServerConnection::processInput(7460802): There were 3465 ms between packets
+17:18:55 [info] 18:18:55 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:18:56 [info] 18:18:56 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:18:57 [info] 18:18:57 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:18:57 [info] 18:18:57 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:18:58 [info] 18:18:58 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:18:58 [info] 18:18:58 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:19:00 [info] 18:19:00 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:19:22 [info] 18:19:22 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:19:25 [info] 18:19:25 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:19:28 [info] 18:19:28 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:20:20 [info] 18:20:20 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:20:21 [info] 18:20:21 +1 [render] Adding vehicle after arena loading is finished. Freeze is expected
+17:20:21 [info] SetBattleState WAIT
+17:20:22 [info] 18:20:22 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+17:20:22 [info] AvatarGameLogic::onBecomeNonPlayer 20205
+17:20:22 [info] 18:20:22 +1 [net] Traceroute::BackgroundWorker destroyed.
+17:20:22 [info] SetBattleState LEAVE
+17:20:22 [info] BattleScreen::OnLeaveBattle
+17:20:22 [info] SetBattleState WAIT
+17:20:22 [info] 18:20:22 +1 [booster] BoostersPanelController::OnGameLogicLeaves
+17:20:22 [error] UIBattleTextChatDialog::Hide called from HUDLayer::OnGameLogicLeaves
+17:20:22 [info] Release RayTester
+17:20:22 [info] AccountGameLogic::onBecomePlayer() 7352762 20205
+17:20:22 [info] 18:20:22 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+17:20:22 [info] 18:20:22 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+17:20:22 [info] 18:20:22 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+17:20:22 [info] 18:20:22 +1 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> WaitScreen:666 20205
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Water = HIGH
+17:20:22 [info] 18:20:22 +1 [render] Draw Water Reflection / Refraction: 0
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Static object = LOW
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Landscape = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Decoration Objects = OFF
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Reflections = LOW
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Tank = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Vegetation = HIGH
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: VegetationCount = regular
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Water = HIGH
+17:20:22 [info] 18:20:22 +1 [render] Draw Water Reflection / Refraction: 0
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Static object = LOW
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Landscape = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Decoration Objects = OFF
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Reflections = LOW
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Tank = MEDIUM
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: Vegetation = HIGH
+17:20:22 [info] 18:20:22 +1 [render] Material group quality: VegetationCount = regular
+17:20:22 [info] SetBattleState UNLOAD
+17:20:22 [info] ClientArena::ClearVehicleMap 14
+17:20:22 [info] 18:20:22 +1 [battle] avatar comes to context
+17:20:22 [info] SetBattleState UNLOADED
+17:20:22 [info] 18:20:22 +1 [base] ScreensFlow::RequestToShowScreen WaitScreen:666 -> GarageScreen:42 20210
+17:20:23 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_08/settings.yaml for read
+17:20:23 [warning] 18:20:23 +1 [story] could not create parser:  ~res:/Stories/bp_season_08/settings.yaml
+17:20:23 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_08/settings.yaml for read
+17:20:23 [warning] 18:20:23 +1 [story] could not create parser:  ~res:/Stories/bp_season_08/settings.yaml
+17:20:23 [warning] 18:20:23 +1 [ads] Player id is not configured!
+17:20:23 [warning] 18:20:23 +1 [ads] IronSource application key is not configured!
+17:20:23 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+17:20:23 [info] [BattleMetrics] Stats has been sent
+17:20:23 [info] GarageScreen::LoadResources begin
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Water = HIGH
+17:20:23 [info] 18:20:23 +1 [render] Draw Water Reflection / Refraction: 0
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Static object = LOW
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Landscape = MEDIUM
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Decoration Objects = OFF
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Reflections = LOW
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Tank = MEDIUM
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: Vegetation = HIGH
+17:20:23 [info] 18:20:23 +1 [render] Material group quality: VegetationCount = regular
+17:20:23 [info] 18:20:23 +1 [base] Controller activated: HangarLoadingController
+17:20:23 [info] 18:20:23 +1 [base] Shop state is not synchronized 2
+17:20:24 [info] 18:20:24 +1 [base] Shop state is not synchronized 2
+17:20:24 [info] 18:20:24 +1 [base] Controller deactivated: HangarLoadingController
+17:20:24 [info] 18:20:24 +1 [base] Controller activated: HangarController
+17:20:24 [info] 18:20:24 +1 [analytics] VigoSdk: is allowed to show user dialog (popups & stuff) true
+17:20:24 [info] 18:20:24 +1 [analytics] VigoSdk: is allowed to show user dialog (suitable region) false
+17:20:24 [info] 18:20:24 +1 [analytics] VigoSdk: is allowed to show user dialog (decision of VigoSdk) false
+17:20:24 [info] 18:20:24 +1 [prebattle] SquadController::Activate
+17:20:25 [info] 18:20:25 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+17:20:25 [info] 18:20:25 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+17:20:25 [info] 18:20:25 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+17:20:40 [info] 18:20:40 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+17:20:40 [info] 18:20:40 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+17:20:42 [info] 18:20:42 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  ButtonPositive  -> event:  ACCENT_ACTION , control: ButtonAccept
+17:20:42 [info] 18:20:42 +1 [ui] UIDataParams redirect event:  ACCENT_CLICKED , control:  InfoTextDialog  -> event:  CONFIRMATION , control: ConfirmationDialog
+17:20:42 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=0
+17:20:42 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=1
+17:20:42 [info] Window::HandleVisibilityChanged: become hidden
+17:20:42 [info] GameCore::OnBackground
+17:20:42 [error] disconnected by user request
+17:20:42 [info] 18:20:42 +1 [chat] XChatInstance::ReleaseGlooxResources
+17:20:42 [info] 18:20:42 +1 [chat] XChatInstance::ReleaseGlooxResources
+17:20:42 [info] Window::HandleWindowDestroyed: enter
+17:20:42 [info] EngineBackend::OnWindowDestroyed: enter
+17:20:42 [info] GameCore::OnWindowDestroyed
+17:20:42 [info] 18:20:42 +1 [BW] BWWrapper::TeardownConnection
+17:20:42 [info] AccountGameLogic::onBecomeNonPlayer() 21053
+17:20:42 [info] 18:20:42 +1 [prebattle] SquadController::Deactivate
+17:20:42 [info] 18:20:42 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+17:20:42 [info] 18:20:42 +1 [base] Controller deactivated: HangarController
+17:20:42 [info] 18:20:42 +1 [prebattle] PrebattleRequester::SetRequestsProvider 0DC6DC7C
+17:20:42 [info] 18:20:42 +1 [tutorial] Lesson destroyed: chatLesson
+17:20:42 [info] 18:20:42 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+17:20:42 [info] 18:20:42 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+17:20:42 [warning] can't set presence for offline client
+17:20:42 [info] 18:20:42 +1 [chat] XChatInstance::ReleaseGlooxResources
+17:20:42 [info] HeavyResourceValidationChecker: CANCELLED

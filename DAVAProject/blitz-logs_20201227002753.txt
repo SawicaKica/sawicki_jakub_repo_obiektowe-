@@ -1,0 +1,1733 @@
+23:27:53 [info] FMOD version 44464
+23:27:53 [info] 00:27:53 +1 [engine] DeviceInfo::GetGPUModel():  AMD Radeon(TM) Vega 3 Graphics
+23:27:53 [info] 00:27:53 +1 [engine] Network type:  NETWORK_TYPE_WIFI
+23:27:53 [error] [YamlParser::Parse] Can't Open file C:/Users/sawic/Documents/DAVAProject/logTags.yaml for read
+23:27:53 [info] EngineBackend::OnGameLoopStarted: enter
+23:27:53 [info] GameCore::OnAppStarted begin
+23:27:54 [info] [Facebook] Found .NET Framework 4.6.2 SP 0
+23:27:55 [info] SetBattleState unknown
+23:27:55 [info] 00:27:55 +1 [base] Vendor OS version:  no
+23:27:55 [info] Device kind: Desktop
+23:27:55 [info] Device display: 15.63" (13.66"x7.60")
+23:27:55 [info] GameCore::OnAppStarted done
+23:27:55 [info] EngineBackend::OnGameLoopStarted: leave
+23:27:55 [info] Window::HandleWindowCreated: enter
+23:27:56 [info] [RHI-DX11] Creating device
+23:27:56 [info] [RHI-DX11] available adapters:
+23:27:56 [info] 0 : 'AMD Radeon(TM) Vega 3 Graphics' (vendor: 0x1002, subsystem: 0x84AE103C), feature level: 0xb000 (11.0)
+23:27:56 [info] 1 : 'Microsoft Basic Render Driver' (vendor: 0x1414, subsystem: 0x0000), feature level: 0xb000 (11.0)
+23:27:56 [info] [RHI-DX11] Using adapter `AMD Radeon(TM) Vega 3 Graphics` (vendor: 1002, subsystem: 84AE103C)
+23:27:56 [info] [RHI-DX11] Creating device without selected adapter
+23:27:56 [info] [RHI-DX11] Init with feature level: 0xb000 (11.0)
+23:27:56 [info] [RHI-DX11] Using retrieved adapter `AMD Radeon(TM) Vega 3 Graphics` (vendor: 0x1002, subsystem: 0x84AE103C)
+23:27:56 [info] [RHI-DX11] Selected adapter has 240 Mb of video memory
+23:27:56 [info] [RHI-DX11] OS registry version: 6.3.18363, is running on Win10: 0
+23:27:56 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+23:27:56 [info] [RHI-DX11] Reset targets and views
+23:27:56 [info] [RHI-DX11] Clear context state
+23:27:56 [info] [RHI-DX11] Flush context
+23:27:56 [info] [RHI-DX11] Resize swapchain buffers to size {1024, 689}
+23:27:56 [info] [RHI-DX11] hardware command buffers enabled: 0
+23:27:56 [info] [RHI-DX11] Typeless texture formats supported: 1
+23:27:56 [info] Rendering thread started
+23:27:56 [info] 00:27:56 +1 [render] DeviceInfo::GetGPUModel():  AMD Radeon(TM) Vega 3 Graphics
+23:27:56 [info] [Renderer] DeviceTier: Low
+23:27:56 [info] [Renderer] CurrentFlow: Forward
+23:27:56 [info] [Renderer] Is Forward with Depth Prepass Supported: YES
+23:27:56 [info] [Renderer] Is PBP Supported: NO
+23:27:56 [info] [Renderer] Is Shadow Mapping Supported: YES
+23:27:56 [info] [Renderer] Max Anisotropy: 16
+23:27:56 [info] [Renderer] Max Texture Size: 16384
+23:27:56 [info] [Renderer] Max Vertex Attributes Count: 16
+23:27:56 [info] [Renderer] Max Varying Vectors Count: 15
+23:27:56 [info] [Renderer] Max MRT Count: 4;
+23:27:56 [info] [Renderer] is32BitIndicesSupported: 
+23:27:56 [info] [Renderer] isVertexTextureUnitsSupported: YES
+23:27:56 [info] [Renderer] armOpenglDepthStencilFetchSupported: NO
+23:27:56 [info] [Renderer] armOpenglColorFetchSupported: NO
+23:27:56 [info] [Renderer] extOpenglColorFetchSupported: NO
+23:27:56 [info] [Renderer] metalColorFetchSupported: NO
+23:27:56 [info] [Renderer] isUpperLeftRTOrigin: YES
+23:27:56 [info] [Renderer] isZeroBaseClipRange: YES
+23:27:56 [info] [Renderer] isCenterPixelMapping: NO
+23:27:56 [info] [Renderer] isInstancingSupported: YES
+23:27:56 [info] [Renderer] isPerfQuerySupported: YES
+23:27:56 [info] [Renderer] isDisjointPerfQuerySupported: NO
+23:27:56 [info] [Renderer] isComparisonSamplerSupported: YES
+23:27:56 [info] [Renderer] isBaseInstanceSupported: YES
+23:27:56 [info] [Renderer] isInstanceIdSupported: YES
+23:27:56 [info] [Renderer] framebufferDiscardSupported: NO
+23:27:56 [info] [Renderer] isD24S8FormatSupported: YES
+23:27:56 [info] [Renderer] isMemoryLessSupported: NO
+23:27:56 [info] [Renderer] retrieveTileDataAllowed: YES
+23:27:57 [info] GameCore::OnWindowCreated begin
+23:27:57 [info] Desirable resource folder: Gfx
+23:27:57 [info] 00:27:57 +1 [graphics_options_module] Device tags: [Win32, , manufacturer-, maxFps-60, windows-low-tier]
+23:27:57 [info] 00:27:57 +1 [graphics_options_module] Detected preset: WindowsLowTier
+23:27:57 [info] GameCore::OnWindowCreated done
+23:27:57 [info] Window::HandleWindowCreated: leave
+23:27:57 [info] Window::HandleVisibilityChanged: become visible
+23:27:57 [info] GameCore::OnForeground
+23:27:57 [info] [RHI-DX11] ResetBlock, resizing swapchain.
+23:27:57 [info] [RHI-DX11] Starting swapchain resize. Set nullView.
+23:27:57 [info] [RHI-DX11] Reset targets and views
+23:27:57 [info] [RHI-DX11] Clear context state
+23:27:57 [info] [RHI-DX11] Flush context
+23:27:57 [info] [RHI-DX11] Resize swapchain buffers to size {1366, 768}
+23:27:57 [info] AppContextImpl::InitializeLocalizations device locale: pl, locale: pl, game locale: pl, sound locale: pl, 
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 1 4
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 2 4
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 3 4
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 4 4
+23:27:57 [info] 00:27:57 +1 [http] UrlRequest::Reset 1A44D8E8
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 5 4
+23:27:57 [info] 00:27:57 +1 [http] UrlRequest::Start this= 1A44D8E8 thread= 27496
+23:27:57 [info] 00:27:57 +1 [base] PreLoginFlow::NextState stateIndex: 6 4
+23:27:57 [info] 00:27:57 +1 [http] UrlRequest::StartAsync 1A44E860
+23:27:57 [info] 00:27:57 +1 [http] UrlRequest::Start this= 1A44E860 thread= 27232
+23:27:57 [info] 00:27:57 +1 [net] Read server regions yaml.
+23:27:58 [info] 00:27:58 +1 [base] PreLoginFlow::NextState stateIndex: 7 25
+23:27:58 [info] 00:27:58 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ hangar loading sync data ]
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Water = HIGH
+23:27:58 [info] 00:27:58 +1 [render] Draw Water Reflection / Refraction: 0
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Static object = LOW
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Landscape = MEDIUM
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Decoration Objects = OFF
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Reflections = LOW
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Tank = MEDIUM
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: Vegetation = HIGH
+23:27:58 [info] 00:27:58 +1 [render] Material group quality: VegetationCount = regular
+23:27:58 [info] 00:27:58 +1 [http] UrlRequest::StartInSeparateThread 1A44E860 wasCancelled= 0
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 8 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 9 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 10 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 11 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 12 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 13 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 14 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 15 26
+23:28:00 [info] 00:28:00 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ DETERMINING_REGION_MESSAGE ]
+23:28:00 [error] 00:28:00 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:00 [info] 00:28:00 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 26
+23:28:00 [info] Timezone: Europe/Warsaw, eu
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 16 26
+23:28:00 [info] 00:28:00 +1 [http] UrlRequest::StartAsync 19F55F30
+23:28:00 [info] 00:28:00 +1 [http] UrlRequest::Start this= 19F55F30 thread= 27496
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 17 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 18 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 19 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 20 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 21 26
+23:28:00 [info] 00:28:00 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ Loading... ]
+23:28:00 [error] 00:28:00 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:00 [info] 00:28:00 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 26
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 22 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 23 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 24 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 25 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 26 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 27 27
+23:28:00 [info] 00:28:00 +1 [base] PreLoginFlow::NextState stateIndex: 28 27
+23:28:00 [info] 00:28:00 +1 [http] UrlRequest::StartInSeparateThread 19F55F30 wasCancelled= 0
+23:28:01 [info] 00:28:01 +1 [base] PreLoginFlow::NextState stateIndex: 29 27
+23:28:01 [info] 00:28:01 +1 [base] PreLoginFlow::NextState stateIndex: 30 28
+23:28:01 [info] 00:28:01 +1 [base] PreLoginFlow::NextState stateIndex: 31 28
+23:28:01 [info] 00:28:01 +1 [base] PreLoginFlow::NextState stateIndex: 32 28
+23:28:01 [info] 00:28:01 +1 [base] PreLoginFlow::NextState stateIndex: 33 28
+23:28:01 [info] 00:28:01 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ Connecting... ]
+23:28:01 [error] 00:28:01 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:01 [info] 00:28:01 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 28
+23:28:01 [info] 00:28:01 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ Connecting... ]
+23:28:01 [error] 00:28:01 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:01 [info] 00:28:01 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 28
+23:28:05 [warning] 00:28:05 +1 [net] Server: login0.wotblitz.eu:20016, ip: 92.223.31.132:20016, avg ping: 78.989000ms, loss: 25.0%
+23:28:05 [warning] 00:28:05 +1 [net] Server: login1.wotblitz.eu:20016, ip: 92.223.31.138:20016, avg ping: 79.036665ms, loss: 25.0%
+23:28:05 [warning] 00:28:05 +1 [net] ClusterHost::SelectAddress : name = EU_C0, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.132:20016 push_back
+23:28:05 [warning] 00:28:05 +1 [net] ClusterHost::SelectAddress : name = EU_C1, totalErrors = 0, positionInQueue = 0 - pingResult->address = 92.223.31.138:20016 push_back
+23:28:05 [info] 00:28:05 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:28:05 [warning] 00:28:05 +1 [BW] W ServerConnection::send(0): Time since last send to server: 10791ms
+23:28:05 [info] 00:28:05 +1 [net] ConnectionManager::onLoggedOn message: {"dbid":576287409,"externals":["email"],"name":"SawicaKica","security_msg":"no_phone","state":150077473,"token2":"576287409:6597596119658799652:10071538263276456071595961350072355182"}
+23:28:05 [info] 00:28:05 +1 [http] UrlRequest::StartAsync 1CCF53D8
+23:28:05 [info] 00:28:05 +1 [http] UrlRequest::Start this= 1CCF53D8 thread= 27440
+23:28:05 [info] 00:28:05 +1 [http] UrlRequest::Start this= 1CCF5488 thread= 27264
+23:28:05 [info] 00:28:05 +1 [base] Entering LocalizationHelper::LoadDynamicLocalizations, request url is: https://stufficons.wotblitz.com/localizations , current locale is: pl
+23:28:05 [info] 00:28:05 +1 [http] UrlRequest::Reset 1CCF5748
+23:28:05 [info] 00:28:05 +1 [http] UrlRequest::Start this= 1CCF5748 thread= 27144
+23:28:06 [info] 00:28:06 +1 [base] Dynamic localizations response status is: 304 , and this is successful result
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_8_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level5/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level2/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/clan_task_journal_chest_epict/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key avatars/Items/avatar_cyberpunk2077_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/AttachmentCertificate/Feature
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunexinewunexistedkeystedkey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_7_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_blitzstaff_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key vatars/Items/Seniority3years/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level5/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level8/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_3_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChinaHalloweenChest/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level1/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunexistenewunexistedkeydkey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china2years/Proxy/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_helsing/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level7/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChinaHalloweenChest/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level4/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level7/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_10_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level6/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_4_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_4_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level5/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level2/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_dracula/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ProgressChestChina/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Certificate/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level4/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/GoldenChinaChest/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level1/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level10/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level2/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level3/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level3/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level4/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level6/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level7/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level8/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level9/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Level9/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_event/booster_bth2020_unique/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/AMX30BChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T95E6ChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BadgerChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ112ChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Dracula_China/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_HALLOWEEN2019_Helsing_China/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/china_halloween2019_event/Token/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2019ChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_3years_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/ChimeraChestChina/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china_special_charm/Proxy/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key avatars/Items/china2years/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key avatars/Items/china2years/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/WZ1115AChestChina/Currency/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_5years_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_6years_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_dracula/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_gold_league_rare_61d/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_platinum_league_unique_61d/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_diamond_league_legendary_61d/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/keychest_Scorpoin_G_rare/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunewunexistedkeynexistedkey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_helsing/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/CustomBG/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_blitzstaff_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/chest_FV_217_Badger_china/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key descriptionString
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_1year_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key zdes_padaet_proxy
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_2years_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/avatar_4years_legendary/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_6_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_Caernarvon_AX_China/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/Chest_Chi_Nu_Kai_China/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_6_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_10_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_3_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_5_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_5_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_7_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_8_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_9_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_item_9_legendary/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/bth2020_chest/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_china-summer2020/prx_china-summer2020Proxy/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunexistedkey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunexistedknewunexistedkeyey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunexistednewunexistedkeykey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key ob_test_stuff_mass_6
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Obtainment
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/T25_Pilot_WPP/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_werewolf/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/halloween2020/token_helloween20_werewolf/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key newunnewunexistedkeyexistedkey
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level1/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level6/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level8/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/BlackFriday2020Chest/Level9/Features
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/prx_newcomers2020/Title
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key avatars/Items/avatar_cyberpunk2077_legendary/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Description
+23:28:06 [warning] 00:28:06 +1 [base] Non string value returned by key storage/Items/chest_camo_cyberpunk2077/Feature
+23:28:06 [info] 00:28:06 +1 [base] Dynamic localizations setup completed.
+23:28:06 [info] 00:28:06 +1 [base] Dynamic localizations loaded from local file:  C:/Users/sawic/Documents/DAVAProject/cache/localizations/pl.yaml
+23:28:06 [info] 00:28:06 +1 [base] Leaving LocalizationHelper::LoadDynamicLocalizations
+23:28:06 [info] 00:28:06 +1 [BW] BWApp::OnCreateEntity: entityId= 12031151 entityTypeID= 7 isPlayer= 1 created= 1
+23:28:06 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/survey_Europe_576287409L.dat" not exists.
+23:28:06 [info] 00:28:06 +1 [base] TestSystem: Server does not confirm group, but test disabled. Clear cached data.
+23:28:06 [info] 00:28:06 +1 [base] TestSystem: Could not clean test cached data. Maybe files does not exists?
+23:28:06 [info] 00:28:06 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:28:06 [info] 00:28:06 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:28:06 [info] 00:28:06 +1 [BW] BWApp::OnCreateEntity: entityId= 12031156 entityTypeID= 0 isPlayer= 1 created= 1
+23:28:06 [info] AccountGameLogic::onBecomePlayer() 12031156 176
+23:28:06 [info] 00:28:06 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:28:06 [info] 00:28:06 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:28:06 [info] 00:28:06 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:28:06 [info] 00:28:06 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ Connecting... ]
+23:28:06 [error] 00:28:06 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:06 [info] 00:28:06 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 176
+23:28:06 [info] 00:28:06 +1 [base] ScreensFlow::RequestToShowConnectingScreen [ hangar loading sync data ]
+23:28:06 [error] 00:28:06 +1 [base] Request to switch to current screen: ConnectingScreen
+23:28:06 [info] 00:28:06 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> ConnectingScreen:666 180
+23:28:06 [info] 00:28:06 +1 [base] Shop state is not synchronized 2
+23:28:08 [info] 00:28:08 +1 [base] ScreensFlow::RequestToShowScreen ConnectingScreen:666 -> GarageScreen:42 309
+23:28:08 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/custom_set_hint_Europe_576287409L.dat" not exists.
+23:28:08 [info] 00:28:08 +1 [base] Shop state is not synchronized 0
+23:28:08 [info] 00:28:08 +1 [base] Shop state is not synchronized 0
+23:28:08 [warning] 00:28:08 +1 [ads] Player id is not configured!
+23:28:08 [warning] 00:28:08 +1 [ads] IronSource application key is not configured!
+23:28:09 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+23:28:09 [info] GarageScreen::LoadResources begin
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Water = HIGH
+23:28:09 [info] 00:28:09 +1 [render] Draw Water Reflection / Refraction: 0
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Static object = LOW
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Landscape = MEDIUM
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Decoration Objects = OFF
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Reflections = LOW
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Tank = MEDIUM
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: Vegetation = HIGH
+23:28:09 [info] 00:28:09 +1 [render] Material group quality: VegetationCount = regular
+23:28:09 [info] 00:28:09 +1 [base] Controller activated: HangarLoadingController
+23:28:09 [info] 00:28:09 +1 [base] Shop state is not synchronized 2
+23:28:11 [error] [FMODSoundEvent::Trigger()] Failed to retrieve event by 37 on eventID: ambient_ny_hangar_2021_tent
+23:28:11 [error] 00:28:11 +1 [shop] No prices fetched, clearing! steam
+23:28:12 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:28:12 [warning] 00:28:12 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:28:12 [info] 00:28:12 +1 [base] Shop state is not synchronized 2
+23:28:13 [info] 00:28:13 +1 [chat] XChatInstance::onClientCreated
+23:28:13 [info] 00:28:13 +1 [base] Controller deactivated: HangarLoadingController
+23:28:13 [info] 00:28:13 +1 [base] Controller activated: WelcomeController
+23:28:13 [warning] 00:28:13 +1 [engine] Failed to create sprite: Gfx/Lobby/controls/buttons/button_default/button_shadow__left
+23:28:13 [warning] 00:28:13 +1 [engine] Failed to create sprite: Gfx/Lobby/controls/buttons/button_default/button_shadow__center
+23:28:13 [warning] 00:28:13 +1 [engine] Failed to create sprite: Gfx/Lobby/controls/buttons/button_default/button_gradient_.psd
+23:28:14 [warning] WGXmppClientPrivate::onConnect
+23:28:15 [info] 00:28:15 +1 [chat] XChatInstance::onConnect()
+23:28:24 [info] 00:28:24 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  CloseButton  -> event:  CLOSE_EVENT_FROM_BUTTON , control: CloseButtonWrapper
+23:28:24 [info] 00:28:24 +1 [base] Controller deactivated: WelcomeController
+23:28:24 [info] 00:28:24 +1 [base] Controller activated: HangarController
+23:28:24 [info] 00:28:24 +1 [prebattle] SquadController::Activate
+23:28:25 [warning] 00:28:25 +1 [engine] Failed to create sprite: Gfx/Lobby/currency/currency__m
+23:28:25 [error] 00:28:25 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:26 [info] 00:28:26 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:28:26 [info] 00:28:26 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:28:26 [info] 00:28:26 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:28:26 [info] 00:28:26 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+23:28:26 [info] 00:28:26 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:28:28 [info] 00:28:28 +1 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:european:S02_StrvM42  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+23:28:28 [info] 00:28:28 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:S02_StrvM42  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:28:28 [info] 00:28:28 +1 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+23:28:28 [info] 00:28:28 +1 [prebattle] SquadController::Deactivate
+23:28:28 [info] 00:28:28 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:28:28 [info] 00:28:28 +1 [base] Controller deactivated: HangarController
+23:28:28 [info] 00:28:28 +1 [base] Controller activated: NewInventory
+23:28:28 [info] 00:28:28 +1 [tutorial] Lesson destroyed: chatLesson
+23:28:28 [info] 00:28:28 +1 [base] Controller activated: InventoryModulesController
+23:28:33 [info] 00:28:33 +1 [base] Controller deactivated: InventoryModulesController
+23:28:33 [info] 00:28:33 +1 [base] Controller deactivated: NewInventory
+23:28:33 [info] 00:28:33 +1 [base] Controller activated: HangarController
+23:28:33 [info] 00:28:33 +1 [prebattle] SquadController::Activate
+23:28:33 [error] 00:28:33 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:33 [info] 00:28:33 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:28:33 [info] 00:28:33 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:28:33 [info] 00:28:33 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:S02_StrvM42  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:28:33 [error] 00:28:33 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:33 [error] 00:28:33 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:34 [info] 00:28:34 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TrainingRoom  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:28:36 [error] 00:28:36 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:36 [error] 00:28:36 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:36 [info] 00:28:36 +1 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButtonLayout  -> event:  BATTLE_BUTTON_PRESSED , control: BattleButtonContainer
+23:28:36 [error] 00:28:36 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:28:36 [info] 00:28:36 +1 [prebattle] SquadController::Deactivate
+23:28:36 [info] 00:28:36 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:28:36 [info] 00:28:36 +1 [base] Controller deactivated: HangarController
+23:28:36 [info] 00:28:36 +1 [base] Controller activated: RandomPrebattleController
+23:28:36 [info] 00:28:36 +1 [tutorial] Lesson destroyed: trainingRoomsLesson
+23:29:05 [info] 00:29:05 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:29:05 [info] AccountGameLogic::onBecomeNonPlayer() 3211
+23:29:05 [info] 00:29:05 +1 [base] Controller deactivated: RandomPrebattleController
+23:29:05 [info] 00:29:05 +1 [prebattle] PrebattleRequester::SetRequestsProvider 1A9E151C
+23:29:05 [info] 00:29:05 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:29:05 [info] 00:29:05 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12031196 entityTypeID= 1 isPlayer= 1 created= 1
+23:29:05 [info] AvatarGameLogic::onBecomePlayer 3211
+23:29:05 [info] SetBattleState CREATED
+23:29:05 [info] 00:29:05 +1 [battle] Battle started on map: canal
+23:29:05 [info] 00:29:05 +1 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> ArenaLoadingScreen:45067 3211
+23:29:05 [info] ClientArena::ClearVehicleMap 0
+23:29:05 [info] SetBattleState LOADING
+23:29:05 [warning] 00:29:05 +1 [battle] isAutodetect: 0 isRewinding: 0 typeId: class AvatarContextBattle
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Water = HIGH
+23:29:05 [info] 00:29:05 +1 [render] Draw Water Reflection / Refraction: 0
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Static object = LOW
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Landscape = MEDIUM
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Decoration Objects = OFF
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Reflections = LOW
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Tank = MEDIUM
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: Vegetation = HIGH
+23:29:05 [info] 00:29:05 +1 [render] Material group quality: VegetationCount = regular
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631844 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631814 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631837 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631808 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631840 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036828 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631839 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631828 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631838 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631827 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631807 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631812 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631821 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036820 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631815 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631826 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036821 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631843 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631823 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631835 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631832 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631841 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631842 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631846 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631824 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631809 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631834 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631847 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631820 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036823 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631830 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036827 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12036819 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631806 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631831 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631813 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631810 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631825 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631818 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:05 [info] 00:29:05 +1 [BW] BWApp::OnCreateEntity: entityId= 3631819 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631829 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631822 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631845 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631811 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631805 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631836 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 12036831 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:06 [info] 00:29:06 +1 [BW] BWApp::OnCreateEntity: entityId= 3631833 entityTypeID= 3 isPlayer= 0 created= 1
+23:29:10 [info] 00:29:10 +1 [tool] Legacy marker position is used
+23:29:12 [info] Cant purge lods: no render object
+23:29:12 [warning] 00:29:12 +1 [battle] Creating DetachTurret entity for vehicleId =  12036827
+23:29:12 [warning] 00:29:12 +1 [battle] DetachTurret entity address: 03A22740
+23:29:12 [info] 00:29:12 +1 [tool] Legacy marker position is used
+23:29:12 [info] Cant purge lods: no render object
+23:29:12 [warning] 00:29:12 +1 [battle] Creating DetachTurret entity for vehicleId =  12036830
+23:29:12 [warning] 00:29:12 +1 [battle] DetachTurret entity address: 03A22740
+23:29:12 [info] 00:29:12 +1 [tool] Legacy marker position is used
+23:29:12 [info] Cant purge lods: no render object
+23:29:12 [warning] 00:29:12 +1 [battle] Creating DetachTurret entity for vehicleId =  12036829
+23:29:12 [warning] 00:29:12 +1 [battle] DetachTurret entity address: 03A22740
+23:29:12 [info] 00:29:12 +1 [tool] Legacy marker position is used
+23:29:12 [info] 00:29:12 +1 [tool] Legacy marker position is used
+23:29:13 [info] Cant purge lods: no render object
+23:29:13 [warning] 00:29:13 +1 [battle] Creating DetachTurret entity for vehicleId =  12036819
+23:29:13 [warning] 00:29:13 +1 [battle] DetachTurret entity address: 03A22740
+23:29:13 [info] 00:29:13 +1 [tool] Legacy marker position is used
+23:29:13 [info] Cant purge lods: no render object
+23:29:13 [warning] 00:29:13 +1 [battle] Creating DetachTurret entity for vehicleId =  12036831
+23:29:13 [warning] 00:29:13 +1 [battle] DetachTurret entity address: 03A22740
+23:29:13 [info] 00:29:13 +1 [tool] Legacy marker position is used
+23:29:13 [info] 00:29:13 +1 [tool] Legacy marker position is used
+23:29:14 [info] 00:29:14 +1 [tool] Legacy marker position is used
+23:29:14 [info] Cant purge lods: no render object
+23:29:14 [warning] 00:29:14 +1 [battle] Creating DetachTurret entity for vehicleId =  12036821
+23:29:14 [warning] 00:29:14 +1 [battle] DetachTurret entity address: 03A22740
+23:29:14 [info] 00:29:14 +1 [tool] Legacy marker position is used
+23:29:14 [info] Cant purge lods: no render object
+23:29:14 [warning] 00:29:14 +1 [battle] Creating DetachTurret entity for vehicleId =  12036832
+23:29:14 [warning] 00:29:14 +1 [battle] DetachTurret entity address: 03A22740
+23:29:14 [info] 00:29:14 +1 [tool] Legacy marker position is used
+23:29:15 [info] 00:29:15 +1 [tool] Legacy marker position is used
+23:29:15 [info] Cant purge lods: no render object
+23:29:15 [warning] 00:29:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12036822
+23:29:15 [warning] 00:29:15 +1 [battle] DetachTurret entity address: 03A22740
+23:29:15 [info] 00:29:15 +1 [tool] Legacy marker position is used
+23:29:15 [info] 00:29:15 +1 [tool] Legacy marker position is used
+23:29:15 [info] Cant purge lods: no render object
+23:29:15 [warning] 00:29:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12036825
+23:29:15 [warning] 00:29:15 +1 [battle] DetachTurret entity address: 03A22740
+23:29:16 [info] 00:29:16 +1 [booster] BoostersPanelViewImpl::SetViewHiddenCallback
+23:29:16 [info] 00:29:16 +1 [booster] BoostersPanelViewImpl::SetViewShownCallback
+23:29:16 [info] 00:29:16 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 0
+23:29:16 [info] 00:29:16 +1 [booster] animationTime: 0.25
+23:29:16 [info] 00:29:16 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:29:16 [info] 00:29:16 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:29:16 [info] 00:29:16 +1 [base] ScreensFlow::RequestToShowScreen ArenaLoadingScreen:45067 -> BattleScreen:721077 3307
+23:29:16 [info] SetBattleState LOADED
+23:29:16 [info] 00:29:16 +1 [battle] HUDLayer::OnPeriodInfoUpdated: waiting
+23:29:17 [info] Create RayTester
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Water = HIGH
+23:29:17 [info] 00:29:17 +1 [render] Draw Water Reflection / Refraction: 0
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Static object = LOW
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Landscape = MEDIUM
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Decoration Objects = OFF
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Reflections = LOW
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Tank = MEDIUM
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: Vegetation = HIGH
+23:29:17 [info] 00:29:17 +1 [render] Material group quality: VegetationCount = regular
+23:29:17 [info] 00:29:17 +1 [booster] installedBoosters: 
+23:29:17 [info] 00:29:17 +1 [booster] availableBoosters: rareBoosterForCrewXp:20
+23:29:17 [info] 00:29:17 +1 [booster] OnBoosterPanelActivated
+23:29:17 [info] 00:29:17 +1 [battle] HUDLayer::OnPeriodInfoUpdated: prebattle
+23:29:24 [info] 00:29:24 +1 [booster] OnBoosterPanelDeactivated
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelController::HideFromScreen: 1
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 1
+23:29:24 [info] 00:29:24 +1 [booster] animationTime: 0.25
+23:29:24 [info] 00:29:24 +1 [battle] HUDLayer::OnPeriodInfoUpdated: battle
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:29:24 [info] 00:29:24 +1 [booster] PanelHiddenCallback OnBoosterPanelDeactivated
+23:29:24 [info] 00:29:24 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:29:43 [info] 00:29:43 +1 [BW] BWApp::OnCreateEntity: entityId= 12036832 entityTypeID= 2 isPlayer= 0 created= 1
+23:29:54 [info] 00:29:54 +1 [BW] BWApp::OnCreateEntity: entityId= 12036825 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:00 [info] 00:30:00 +1 [BW] BWApp::OnCreateEntity: entityId= 12036829 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:04 [info] 00:30:04 +1 [BW] BWApp::OnCreateEntity: entityId= 12036830 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:07 [info] 00:30:07 +1 [BW] BWApp::OnCreateEntity: entityId= 12036824 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:10 [info] 00:30:10 +1 [BW] BWApp::OnCreateEntity: entityId= 12036826 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:11 [info] 00:30:11 +1 [BW] BWApp::OnCreateEntity: entityId= 12036829 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:12 [info] 00:30:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12036832 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:23 [info] 00:30:23 +1 [BW] BWApp::OnCreateEntity: entityId= 12036830 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:26 [info] 00:30:26 +1 [BW] BWApp::OnCreateEntity: entityId= 12036826 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:37 [info] 00:30:37 +1 [BW] BWApp::OnCreateEntity: entityId= 12036832 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:39 [info] 00:30:39 +1 [BW] BWApp::OnCreateEntity: entityId= 12036830 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:46 [info] 00:30:46 +1 [BW] BWApp::OnCreateEntity: entityId= 12036825 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:54 [info] 00:30:54 +1 [BW] BWApp::OnCreateEntity: entityId= 12036824 entityTypeID= 2 isPlayer= 0 created= 1
+23:30:59 [info] 00:30:59 +1 [BW] BWApp::OnCreateEntity: entityId= 12036829 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:01 [info] 00:31:01 +1 [BW] BWApp::OnCreateEntity: entityId= 12036832 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:02 [info] 00:31:02 +1 [BW] BWApp::OnCreateEntity: entityId= 12036826 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:04 [info] 00:31:04 +1 [BW] BWApp::OnCreateEntity: entityId= 12036822 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:16 [info] 00:31:16 +1 [BW] BWApp::OnCreateEntity: entityId= 12036944 entityTypeID= 8 isPlayer= 0 created= 1
+23:31:25 [info] SetBattleState WAIT
+23:31:25 [info] 00:31:25 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:31:25 [info] 00:31:25 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:31:25 [info] AvatarGameLogic::onBecomeNonPlayer 10885
+23:31:25 [info] SetBattleState LEAVE
+23:31:25 [info] BattleScreen::OnLeaveBattle
+23:31:25 [info] SetBattleState WAIT
+23:31:25 [error] UIBattleTextChatDialog::Hide called from HUDLayer::OnGameLogicLeaves
+23:31:25 [info] Release RayTester
+23:31:25 [info] 00:31:25 +1 [BW] BWApp::OnCreateEntity: entityId= 12031156 entityTypeID= 0 isPlayer= 1 created= 1
+23:31:25 [info] AccountGameLogic::onBecomePlayer() 12031156 10885
+23:31:25 [info] 00:31:25 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:31:25 [info] 00:31:25 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:31:25 [info] 00:31:25 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:31:25 [info] 00:31:25 +1 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> WaitScreen:666 10885
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Water = HIGH
+23:31:25 [info] 00:31:25 +1 [render] Draw Water Reflection / Refraction: 0
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Static object = LOW
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Landscape = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Decoration Objects = OFF
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Reflections = LOW
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Tank = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Vegetation = HIGH
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: VegetationCount = regular
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Water = HIGH
+23:31:25 [info] 00:31:25 +1 [render] Draw Water Reflection / Refraction: 0
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Static object = LOW
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Landscape = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Decoration Objects = OFF
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Reflections = LOW
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Tank = MEDIUM
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: Vegetation = HIGH
+23:31:25 [info] 00:31:25 +1 [render] Material group quality: VegetationCount = regular
+23:31:25 [info] SetBattleState UNLOAD
+23:31:25 [info] 00:31:25 +1 [battle] MOBWOT-87347: context ptr = 2101F848 , eventSystem ptr = 07E2B9F8
+23:31:26 [info] ClientArena::ClearVehicleMap 14
+23:31:26 [info] SetBattleState UNLOADED
+23:31:26 [info] 00:31:26 +1 [base] ScreensFlow::RequestToShowScreen WaitScreen:666 -> GarageScreen:42 10890
+23:31:26 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/custom_set_hint_Europe_576287409L.dat" not exists.
+23:31:26 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:31:26 [warning] 00:31:26 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:31:26 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:31:26 [warning] 00:31:26 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:31:26 [warning] 00:31:26 +1 [ads] Player id is not configured!
+23:31:26 [warning] 00:31:26 +1 [ads] IronSource application key is not configured!
+23:31:26 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+23:31:26 [info] [BattleMetrics] Stats has been sent
+23:31:26 [info] GarageScreen::LoadResources begin
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Water = HIGH
+23:31:27 [info] 00:31:27 +1 [render] Draw Water Reflection / Refraction: 0
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Static object = LOW
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Landscape = MEDIUM
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Decoration Objects = OFF
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Reflections = LOW
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Tank = MEDIUM
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: Vegetation = HIGH
+23:31:27 [info] 00:31:27 +1 [render] Material group quality: VegetationCount = regular
+23:31:27 [info] 00:31:27 +1 [base] Controller activated: HangarLoadingController
+23:31:27 [info] 00:31:27 +1 [base] Shop state is not synchronized 2
+23:31:29 [info] 00:31:29 +1 [base] Shop state is not synchronized 2
+23:31:29 [info] 00:31:29 +1 [base] Controller deactivated: HangarLoadingController
+23:31:29 [info] 00:31:29 +1 [base] Controller activated: HangarController
+23:31:29 [info] 00:31:29 +1 [prebattle] SquadController::Activate
+23:31:30 [warning] 00:31:30 +1 [engine] Failed to create sprite: Gfx/Lobby/currency/currency__m
+23:31:30 [error] 00:31:30 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:30 [info] 00:31:30 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:31:30 [info] 00:31:30 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:31:30 [info] 00:31:30 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:S02_StrvM42  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:31:40 [info] 00:31:40 +1 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+23:31:40 [info] 00:31:40 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:31:40 [info] 00:31:40 +1 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+23:31:40 [error] 00:31:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:40 [info] 00:31:40 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+23:31:40 [info] 00:31:40 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:31:41 [info] 00:31:41 +1 [ui] UIDataParams redirect event:  ROTATION_FINISHED , control:  LimitedTimeOffer0  -> event:  ROTATION_FINISHED , control: Slider
+23:31:42 [error] 00:31:42 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:45 [error] 00:31:45 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:47 [error] 00:31:47 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:48 [error] 00:31:48 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:48 [info] 00:31:48 +1 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButtonLayout  -> event:  BATTLE_BUTTON_PRESSED , control: BattleButtonContainer
+23:31:48 [error] 00:31:48 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:48 [error] 00:31:48 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:31:48 [info] 00:31:48 +1 [prebattle] SquadController::Deactivate
+23:31:48 [info] 00:31:48 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:31:48 [info] 00:31:48 +1 [base] Controller deactivated: HangarController
+23:31:48 [info] 00:31:48 +1 [base] Controller activated: RandomPrebattleController
+23:31:48 [info] 00:31:48 +1 [tutorial] Lesson destroyed: chatLesson
+23:31:48 [info] 00:31:48 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:31:48 [info] 00:31:48 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:31:48 [info] AccountGameLogic::onBecomeNonPlayer() 11933
+23:31:48 [info] 00:31:48 +1 [base] Controller deactivated: RandomPrebattleController
+23:31:48 [info] 00:31:48 +1 [prebattle] PrebattleRequester::SetRequestsProvider 203C93BC
+23:31:48 [info] 00:31:48 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:31:48 [info] 00:31:48 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:31:48 [info] 00:31:48 +1 [BW] BWApp::OnCreateEntity: entityId= 12072553 entityTypeID= 1 isPlayer= 1 created= 1
+23:31:48 [info] AvatarGameLogic::onBecomePlayer 11933
+23:31:48 [info] SetBattleState CREATED
+23:31:48 [info] 00:31:48 +1 [battle] Battle started on map: neptune
+23:31:48 [info] 00:31:48 +1 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> ArenaLoadingScreen:45067 11933
+23:31:49 [info] ClientArena::ClearVehicleMap 0
+23:31:49 [info] SetBattleState LOADING
+23:31:49 [warning] 00:31:49 +1 [battle] isAutodetect: 0 isRewinding: 0 typeId: class AvatarContextBattle
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Water = HIGH
+23:31:49 [info] 00:31:49 +1 [render] Draw Water Reflection / Refraction: 0
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Static object = LOW
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Landscape = MEDIUM
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Decoration Objects = OFF
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Reflections = LOW
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Tank = MEDIUM
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: Vegetation = HIGH
+23:31:49 [info] 00:31:49 +1 [render] Material group quality: VegetationCount = regular
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554193 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554226 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604666 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554234 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604698 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604685 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554218 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554247 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554254 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 279760790 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554236 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554203 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554206 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604680 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604689 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554220 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554229 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554240 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554216 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554197 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604692 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554214 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604665 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554201 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554231 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554204 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604670 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554207 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554252 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554194 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604669 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604686 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554219 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604674 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 279760796 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554224 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554230 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554233 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554239 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554205 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604675 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554198 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554195 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554213 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554243 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604661 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604702 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270554191 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:49 [info] 00:31:49 +1 [BW] BWApp::OnCreateEntity: entityId= 270604691 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554238 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604677 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 279760793 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554235 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604699 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604663 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554232 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604701 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554227 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554212 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554200 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554244 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604694 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604687 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604668 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554192 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604658 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554253 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554199 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604695 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604664 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554249 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604697 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604681 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554209 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604700 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554250 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 279760798 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554208 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554215 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554228 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604656 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 279760791 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 279760789 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604659 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554217 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554246 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554248 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604673 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604688 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554245 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554202 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554190 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604662 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604671 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554196 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554242 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604693 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604672 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554255 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554221 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554211 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604682 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604678 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604696 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554237 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604660 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604667 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604684 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604690 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554223 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554241 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604679 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 279760787 entityTypeID= 2 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604657 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604676 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270604683 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554225 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554222 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554210 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:50 [info] 00:31:50 +1 [BW] BWApp::OnCreateEntity: entityId= 270554251 entityTypeID= 3 isPlayer= 0 created= 1
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:54 [error] 00:31:54 +1 [base] DID NOT FOUND DESTRUCTIBLE NODE !!!
+23:31:55 [info] 00:31:55 +1 [tool] Legacy marker position is used
+23:31:56 [info] Cant purge lods: no render object
+23:31:56 [warning] 00:31:56 +1 [battle] Creating DetachTurret entity for vehicleId =  279760796
+23:31:56 [warning] 00:31:56 +1 [battle] DetachTurret entity address: 03A22740
+23:31:56 [info] 00:31:56 +1 [tool] Legacy marker position is used
+23:31:56 [info] Cant purge lods: no render object
+23:31:56 [warning] 00:31:56 +1 [battle] Creating DetachTurret entity for vehicleId =  279760790
+23:31:56 [warning] 00:31:56 +1 [battle] DetachTurret entity address: 03A22740
+23:31:56 [info] 00:31:56 +1 [tool] Legacy marker position is used
+23:31:57 [info] Cant purge lods: no render object
+23:31:57 [warning] 00:31:57 +1 [battle] Creating DetachTurret entity for vehicleId =  279760794
+23:31:57 [warning] 00:31:57 +1 [battle] DetachTurret entity address: 03A22740
+23:31:57 [info] 00:31:57 +1 [tool] Legacy marker position is used
+23:31:57 [info] Cant purge lods: no render object
+23:31:57 [warning] 00:31:57 +1 [battle] Creating DetachTurret entity for vehicleId =  279760793
+23:31:57 [warning] 00:31:57 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760789
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760798
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760788
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760800
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760799
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:58 [info] Cant purge lods: no render object
+23:31:58 [warning] 00:31:58 +1 [battle] Creating DetachTurret entity for vehicleId =  279760792
+23:31:58 [warning] 00:31:58 +1 [battle] DetachTurret entity address: 03A22740
+23:31:58 [info] 00:31:58 +1 [tool] Legacy marker position is used
+23:31:59 [info] Cant purge lods: no render object
+23:31:59 [warning] 00:31:59 +1 [battle] Creating DetachTurret entity for vehicleId =  279760787
+23:31:59 [warning] 00:31:59 +1 [battle] DetachTurret entity address: 03A22740
+23:31:59 [info] 00:31:59 +1 [tool] Legacy marker position is used
+23:31:59 [info] Cant purge lods: no render object
+23:31:59 [warning] 00:31:59 +1 [battle] Creating DetachTurret entity for vehicleId =  279760791
+23:31:59 [warning] 00:31:59 +1 [battle] DetachTurret entity address: 03A22740
+23:31:59 [info] 00:31:59 +1 [tool] Legacy marker position is used
+23:31:59 [info] Cant purge lods: no render object
+23:31:59 [warning] 00:31:59 +1 [battle] Creating DetachTurret entity for vehicleId =  279760795
+23:31:59 [warning] 00:31:59 +1 [battle] DetachTurret entity address: 03A22740
+23:32:00 [info] 00:32:00 +1 [booster] BoostersPanelViewImpl::SetViewHiddenCallback
+23:32:00 [info] 00:32:00 +1 [booster] BoostersPanelViewImpl::SetViewShownCallback
+23:32:00 [info] 00:32:00 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 0
+23:32:00 [info] 00:32:00 +1 [booster] animationTime: 0.25
+23:32:00 [info] 00:32:00 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:32:00 [info] 00:32:00 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:32:00 [info] 00:32:00 +1 [base] ScreensFlow::RequestToShowScreen ArenaLoadingScreen:45067 -> BattleScreen:721077 12025
+23:32:00 [info] SetBattleState LOADED
+23:32:00 [info] 00:32:00 +1 [battle] HUDLayer::OnPeriodInfoUpdated: waiting
+23:32:00 [info] Create RayTester
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Water = HIGH
+23:32:00 [info] 00:32:00 +1 [render] Draw Water Reflection / Refraction: 0
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Static object = LOW
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Landscape = MEDIUM
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Decoration Objects = OFF
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Reflections = LOW
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Tank = MEDIUM
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: Vegetation = HIGH
+23:32:00 [info] 00:32:00 +1 [render] Material group quality: VegetationCount = regular
+23:32:01 [info] 00:32:01 +1 [booster] installedBoosters: 
+23:32:01 [info] 00:32:01 +1 [booster] availableBoosters: rareBoosterForCrewXp:20
+23:32:01 [info] 00:32:01 +1 [booster] OnBoosterPanelActivated
+23:32:03 [info] 00:32:03 +1 [battle] HUDLayer::OnPeriodInfoUpdated: prebattle
+23:32:10 [info] 00:32:10 +1 [battle] HUDLayer::OnPeriodInfoUpdated: battle
+23:32:10 [info] 00:32:10 +1 [booster] OnBoosterPanelDeactivated
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelController::HideFromScreen: 1
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 1
+23:32:10 [info] 00:32:10 +1 [booster] animationTime: 0.25
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:32:10 [info] 00:32:10 +1 [booster] PanelHiddenCallback OnBoosterPanelDeactivated
+23:32:10 [info] 00:32:10 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:32:31 [info] 00:32:31 +1 [BW] BWApp::OnCreateEntity: entityId= 279760792 entityTypeID= 2 isPlayer= 0 created= 1
+23:32:39 [info] 00:32:39 +1 [BW] BWApp::OnCreateEntity: entityId= 279760795 entityTypeID= 2 isPlayer= 0 created= 1
+23:32:45 [info] 00:32:45 +1 [BW] BWApp::OnCreateEntity: entityId= 279760799 entityTypeID= 2 isPlayer= 0 created= 1
+23:32:48 [info] 00:32:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279760794 entityTypeID= 2 isPlayer= 0 created= 1
+23:32:49 [info] 00:32:49 +1 [BW] BWApp::OnCreateEntity: entityId= 279760788 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:00 [info] 00:33:00 +1 [BW] BWApp::OnCreateEntity: entityId= 279760792 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:03 [info] 00:33:03 +1 [BW] BWApp::OnCreateEntity: entityId= 279760788 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:07 [info] 00:33:07 +1 [BW] BWApp::OnCreateEntity: entityId= 279760800 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:18 [info] 00:33:18 +1 [BW] BWApp::OnCreateEntity: entityId= 279760788 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:19 [info] 00:33:19 +1 [BW] BWApp::OnCreateEntity: entityId= 279760797 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:28 [info] SetBattleState WAIT
+23:33:28 [info] 00:33:28 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:33:28 [info] 00:33:28 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:33:28 [info] AvatarGameLogic::onBecomeNonPlayer 17194
+23:33:28 [info] SetBattleState LEAVE
+23:33:28 [info] BattleScreen::OnLeaveBattle
+23:33:28 [info] SetBattleState WAIT
+23:33:28 [error] UIBattleTextChatDialog::Hide called from HUDLayer::OnGameLogicLeaves
+23:33:28 [info] Release RayTester
+23:33:28 [info] 00:33:28 +1 [BW] BWApp::OnCreateEntity: entityId= 12031156 entityTypeID= 0 isPlayer= 1 created= 1
+23:33:28 [info] AccountGameLogic::onBecomePlayer() 12031156 17194
+23:33:28 [info] 00:33:28 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:33:28 [info] 00:33:28 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:33:28 [info] 00:33:28 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:33:28 [info] 00:33:28 +1 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> WaitScreen:666 17194
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Water = HIGH
+23:33:28 [info] 00:33:28 +1 [render] Draw Water Reflection / Refraction: 0
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Static object = LOW
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Landscape = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Decoration Objects = OFF
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Reflections = LOW
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Tank = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Vegetation = HIGH
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: VegetationCount = regular
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Water = HIGH
+23:33:28 [info] 00:33:28 +1 [render] Draw Water Reflection / Refraction: 0
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Static object = LOW
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Landscape = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Decoration Objects = OFF
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Reflections = LOW
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Tank = MEDIUM
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: Vegetation = HIGH
+23:33:28 [info] 00:33:28 +1 [render] Material group quality: VegetationCount = regular
+23:33:28 [info] SetBattleState UNLOAD
+23:33:28 [info] 00:33:28 +1 [battle] MOBWOT-87347: context ptr = 203DBA70 , eventSystem ptr = 07E2B9F8
+23:33:28 [info] ClientArena::ClearVehicleMap 14
+23:33:28 [info] SetBattleState UNLOADED
+23:33:28 [info] 00:33:28 +1 [base] ScreensFlow::RequestToShowScreen WaitScreen:666 -> GarageScreen:42 17200
+23:33:28 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/custom_set_hint_Europe_576287409L.dat" not exists.
+23:33:28 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:33:28 [warning] 00:33:28 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:33:29 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:33:29 [warning] 00:33:29 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:33:29 [warning] 00:33:29 +1 [ads] Player id is not configured!
+23:33:29 [warning] 00:33:29 +1 [ads] IronSource application key is not configured!
+23:33:29 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+23:33:29 [info] [BattleMetrics] Stats has been sent
+23:33:29 [info] GarageScreen::LoadResources begin
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Water = HIGH
+23:33:29 [info] 00:33:29 +1 [render] Draw Water Reflection / Refraction: 0
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Static object = LOW
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Landscape = MEDIUM
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Decoration Objects = OFF
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Reflections = LOW
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Tank = MEDIUM
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: Vegetation = HIGH
+23:33:29 [info] 00:33:29 +1 [render] Material group quality: VegetationCount = regular
+23:33:29 [info] 00:33:29 +1 [base] Controller activated: HangarLoadingController
+23:33:29 [info] 00:33:29 +1 [base] Shop state is not synchronized 2
+23:33:31 [info] 00:33:31 +1 [base] Shop state is not synchronized 2
+23:33:31 [info] 00:33:31 +1 [base] Controller deactivated: HangarLoadingController
+23:33:31 [info] 00:33:31 +1 [base] Controller activated: HangarController
+23:33:32 [info] 00:33:32 +1 [prebattle] SquadController::Activate
+23:33:33 [warning] 00:33:33 +1 [engine] Failed to create sprite: Gfx/Lobby/currency/currency__m
+23:33:33 [error] 00:33:33 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:33 [info] 00:33:33 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:33:33 [info] 00:33:33 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:33:33 [info] 00:33:33 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:33:37 [info] 00:33:37 +1 [ui] UIDataParams redirect event:  HOVER , control:  ButtonDecorator  -> event:  HOVER , control: ContentHolder
+23:33:37 [info] 00:33:37 +1 [ui] UIDataParams redirect event:  CANCEL_HOVER , control:  ButtonDecorator  -> event:  CANCEL_HOVER , control: ContentHolder
+23:33:38 [info] 00:33:38 +1 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:european:S02_StrvM42  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+23:33:38 [info] 00:33:38 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:S02_StrvM42  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:33:38 [info] 00:33:38 +1 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+23:33:38 [error] 00:33:38 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:38 [info] 00:33:38 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+23:33:38 [info] 00:33:38 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:33:38 [error] 00:33:38 +1 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+23:33:39 [error] 00:33:39 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:40 [error] 00:33:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:40 [error] 00:33:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:40 [error] 00:33:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:40 [error] 00:33:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:40 [error] 00:33:40 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:41 [error] 00:33:41 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:41 [error] 00:33:41 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:41 [info] 00:33:41 +1 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButtonLayout  -> event:  BATTLE_BUTTON_PRESSED , control: BattleButtonContainer
+23:33:41 [error] 00:33:41 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:41 [error] 00:33:41 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:33:41 [info] 00:33:41 +1 [prebattle] SquadController::Deactivate
+23:33:41 [info] 00:33:41 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:33:41 [info] 00:33:41 +1 [base] Controller deactivated: HangarController
+23:33:41 [info] 00:33:41 +1 [base] Controller activated: RandomPrebattleController
+23:33:41 [info] 00:33:41 +1 [tutorial] Lesson destroyed: chatLesson
+23:33:47 [info] 00:33:47 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:33:47 [info] 00:33:47 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:33:47 [info] AccountGameLogic::onBecomeNonPlayer() 18033
+23:33:47 [info] 00:33:47 +1 [base] Controller deactivated: RandomPrebattleController
+23:33:47 [info] 00:33:47 +1 [prebattle] PrebattleRequester::SetRequestsProvider 25C4EC54
+23:33:47 [info] 00:33:47 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:33:47 [info] 00:33:47 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:33:47 [info] 00:33:47 +1 [BW] BWApp::OnCreateEntity: entityId= 12072655 entityTypeID= 1 isPlayer= 1 created= 1
+23:33:47 [info] AvatarGameLogic::onBecomePlayer 18036
+23:33:47 [info] SetBattleState CREATED
+23:33:47 [info] 00:33:47 +1 [battle] Battle started on map: savanna
+23:33:47 [info] 00:33:47 +1 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> ArenaLoadingScreen:45067 18036
+23:33:47 [info] ClientArena::ClearVehicleMap 0
+23:33:48 [info] SetBattleState LOADING
+23:33:48 [warning] 00:33:48 +1 [battle] isAutodetect: 0 isRewinding: 0 typeId: class AvatarContextBattle
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Water = HIGH
+23:33:48 [info] 00:33:48 +1 [render] Draw Water Reflection / Refraction: 0
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Static object = LOW
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Landscape = MEDIUM
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Decoration Objects = OFF
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Reflections = LOW
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Tank = MEDIUM
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: Vegetation = HIGH
+23:33:48 [info] 00:33:48 +1 [render] Material group quality: VegetationCount = regular
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436944 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436939 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436951 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436930 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436952 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436937 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436941 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436926 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436950 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436938 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436932 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436936 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436929 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812193 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436946 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436948 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436943 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436942 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436925 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436931 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436927 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436935 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436949 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436955 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436953 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436940 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436933 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812190 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436928 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436945 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812197 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436934 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436947 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812187 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812185 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812192 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 279812191 entityTypeID= 2 isPlayer= 0 created= 1
+23:33:48 [info] 00:33:48 +1 [BW] BWApp::OnCreateEntity: entityId= 269436954 entityTypeID= 3 isPlayer= 0 created= 1
+23:33:50 [error] 00:33:50 +1 [render] Vegetation entity without QualitySettingsComponent will be ignored in game
+23:33:51 [info] 00:33:51 +1 [tool] Legacy marker position is used
+23:33:52 [info] Cant purge lods: no render object
+23:33:52 [warning] 00:33:52 +1 [battle] Creating DetachTurret entity for vehicleId =  279812193
+23:33:52 [warning] 00:33:52 +1 [battle] DetachTurret entity address: 03A22740
+23:33:53 [info] 00:33:53 +1 [tool] Legacy marker position is used
+23:33:53 [info] Cant purge lods: no render object
+23:33:53 [warning] 00:33:53 +1 [battle] Creating DetachTurret entity for vehicleId =  279812196
+23:33:53 [warning] 00:33:53 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812195
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812189
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812190
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812187
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812192
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] 00:33:54 +1 [tool] Legacy marker position is used
+23:33:54 [info] Cant purge lods: no render object
+23:33:54 [warning] 00:33:54 +1 [battle] Creating DetachTurret entity for vehicleId =  279812188
+23:33:54 [warning] 00:33:54 +1 [battle] DetachTurret entity address: 03A22740
+23:33:55 [info] 00:33:55 +1 [tool] Legacy marker position is used
+23:33:55 [info] Cant purge lods: no render object
+23:33:55 [warning] 00:33:55 +1 [battle] Creating DetachTurret entity for vehicleId =  279812191
+23:33:55 [warning] 00:33:55 +1 [battle] DetachTurret entity address: 03A22740
+23:33:55 [info] 00:33:55 +1 [tool] Legacy marker position is used
+23:33:55 [info] Cant purge lods: no render object
+23:33:55 [warning] 00:33:55 +1 [battle] Creating DetachTurret entity for vehicleId =  279812184
+23:33:55 [warning] 00:33:55 +1 [battle] DetachTurret entity address: 03A22740
+23:33:55 [info] 00:33:55 +1 [tool] Legacy marker position is used
+23:33:56 [info] 00:33:56 +1 [booster] BoostersPanelViewImpl::SetViewHiddenCallback
+23:33:56 [info] 00:33:56 +1 [booster] BoostersPanelViewImpl::SetViewShownCallback
+23:33:56 [info] 00:33:56 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 0
+23:33:56 [info] 00:33:56 +1 [booster] animationTime: 0.25
+23:33:56 [info] 00:33:56 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:33:56 [info] 00:33:56 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:33:56 [info] 00:33:56 +1 [base] ScreensFlow::RequestToShowScreen ArenaLoadingScreen:45067 -> BattleScreen:721077 18100
+23:33:56 [info] SetBattleState LOADED
+23:33:56 [info] 00:33:56 +1 [battle] HUDLayer::OnPeriodInfoUpdated: waiting
+23:33:56 [info] Create RayTester
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Water = HIGH
+23:33:56 [info] 00:33:56 +1 [render] Draw Water Reflection / Refraction: 0
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Static object = LOW
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Landscape = MEDIUM
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Decoration Objects = OFF
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Reflections = LOW
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Tank = MEDIUM
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: Vegetation = HIGH
+23:33:56 [info] 00:33:56 +1 [render] Material group quality: VegetationCount = regular
+23:33:56 [info] 00:33:56 +1 [booster] installedBoosters: 
+23:33:56 [info] 00:33:56 +1 [booster] availableBoosters: rareBoosterForCrewXp:20
+23:33:56 [info] 00:33:56 +1 [booster] OnBoosterPanelActivated
+23:34:05 [info] 00:34:05 +1 [battle] HUDLayer::OnPeriodInfoUpdated: prebattle
+23:34:12 [info] 00:34:12 +1 [battle] HUDLayer::OnPeriodInfoUpdated: battle
+23:34:12 [info] 00:34:12 +1 [booster] OnBoosterPanelDeactivated
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelController::HideFromScreen: 1
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 1
+23:34:12 [info] 00:34:12 +1 [booster] animationTime: 0.25
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:34:12 [info] 00:34:12 +1 [booster] PanelHiddenCallback OnBoosterPanelDeactivated
+23:34:12 [info] 00:34:12 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:34:45 [info] 00:34:45 +1 [BW] BWApp::OnCreateEntity: entityId= 279812186 entityTypeID= 2 isPlayer= 0 created= 1
+23:34:52 [info] 00:34:52 +1 [BW] BWApp::OnCreateEntity: entityId= 279812189 entityTypeID= 2 isPlayer= 0 created= 1
+23:34:53 [info] 00:34:53 +1 [BW] BWApp::OnCreateEntity: entityId= 279812196 entityTypeID= 2 isPlayer= 0 created= 1
+23:34:57 [info] 00:34:57 +1 [BW] BWApp::OnCreateEntity: entityId= 279812186 entityTypeID= 2 isPlayer= 0 created= 1
+23:34:57 [info] 00:34:57 +1 [BW] BWApp::OnCreateEntity: entityId= 279812188 entityTypeID= 2 isPlayer= 0 created= 1
+23:35:09 [info] 00:35:09 +1 [BW] BWApp::OnCreateEntity: entityId= 279812186 entityTypeID= 2 isPlayer= 0 created= 1
+23:35:12 [info] 00:35:12 +1 [BW] BWApp::OnCreateEntity: entityId= 279812188 entityTypeID= 2 isPlayer= 0 created= 1
+23:35:18 [info] SetBattleState WAIT
+23:35:18 [info] 00:35:18 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:35:18 [info] 00:35:18 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:35:18 [info] AvatarGameLogic::onBecomeNonPlayer 22927
+23:35:18 [info] SetBattleState LEAVE
+23:35:18 [info] BattleScreen::OnLeaveBattle
+23:35:18 [info] SetBattleState WAIT
+23:35:18 [error] UIBattleTextChatDialog::Hide called from HUDLayer::OnGameLogicLeaves
+23:35:18 [info] Release RayTester
+23:35:18 [info] 00:35:18 +1 [BW] BWApp::OnCreateEntity: entityId= 12031156 entityTypeID= 0 isPlayer= 1 created= 1
+23:35:18 [info] AccountGameLogic::onBecomePlayer() 12031156 22927
+23:35:18 [info] 00:35:18 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:35:18 [info] 00:35:18 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:35:18 [info] 00:35:18 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:35:18 [info] 00:35:18 +1 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> WaitScreen:666 22927
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Water = HIGH
+23:35:18 [info] 00:35:18 +1 [render] Draw Water Reflection / Refraction: 0
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Static object = LOW
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Landscape = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Decoration Objects = OFF
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Reflections = LOW
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Tank = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Vegetation = HIGH
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: VegetationCount = regular
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Water = HIGH
+23:35:18 [info] 00:35:18 +1 [render] Draw Water Reflection / Refraction: 0
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Static object = LOW
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Landscape = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Decoration Objects = OFF
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Reflections = LOW
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Tank = MEDIUM
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: Vegetation = HIGH
+23:35:18 [info] 00:35:18 +1 [render] Material group quality: VegetationCount = regular
+23:35:18 [info] SetBattleState UNLOAD
+23:35:18 [info] 00:35:18 +1 [battle] MOBWOT-87347: context ptr = 25DBD3A0 , eventSystem ptr = 07E2B9F8
+23:35:18 [info] ClientArena::ClearVehicleMap 14
+23:35:18 [info] SetBattleState UNLOADED
+23:35:18 [info] 00:35:18 +1 [base] ScreensFlow::RequestToShowScreen WaitScreen:666 -> GarageScreen:42 22932
+23:35:18 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/custom_set_hint_Europe_576287409L.dat" not exists.
+23:35:18 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:35:18 [warning] 00:35:18 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:35:19 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:35:19 [warning] 00:35:19 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:35:19 [warning] 00:35:19 +1 [ads] Player id is not configured!
+23:35:19 [warning] 00:35:19 +1 [ads] IronSource application key is not configured!
+23:35:19 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+23:35:19 [info] [BattleMetrics] Stats has been sent
+23:35:19 [info] GarageScreen::LoadResources begin
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Water = HIGH
+23:35:19 [info] 00:35:19 +1 [render] Draw Water Reflection / Refraction: 0
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Static object = LOW
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Landscape = MEDIUM
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Decoration Objects = OFF
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Reflections = LOW
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Tank = MEDIUM
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: Vegetation = HIGH
+23:35:19 [info] 00:35:19 +1 [render] Material group quality: VegetationCount = regular
+23:35:19 [info] 00:35:19 +1 [base] Controller activated: HangarLoadingController
+23:35:19 [info] 00:35:19 +1 [base] Shop state is not synchronized 2
+23:35:23 [info] 00:35:23 +1 [base] Shop state is not synchronized 2
+23:35:24 [info] 00:35:24 +1 [base] Controller deactivated: HangarLoadingController
+23:35:24 [info] 00:35:24 +1 [base] Controller activated: HangarController
+23:35:24 [info] 00:35:24 +1 [prebattle] SquadController::Activate
+23:35:25 [warning] 00:35:25 +1 [engine] Failed to create sprite: Gfx/Lobby/currency/currency__m
+23:35:25 [error] 00:35:25 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:35:25 [info] 00:35:25 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:35:25 [info] 00:35:25 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:35:25 [info] 00:35:25 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:S02_StrvM42  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:35:35 [info] 00:35:35 +1 [ui] UIDataParams redirect event:  ROTATION_FINISHED , control:  LimitedTimeOffer0  -> event:  ROTATION_FINISHED , control: Slider
+23:35:46 [info] 00:35:46 +1 [ui] UIDataParams redirect event:  ROTATION_FINISHED , control:  LimitedTimeOffer1  -> event:  ROTATION_FINISHED , control: Slider
+23:35:48 [info] 00:35:48 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipChat
+23:35:48 [info] 00:35:48 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipChat  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:35:48 [error] 00:35:48 +1 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+23:35:48 [info] 00:35:48 +1 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  OferredTankCell  -> event:  SELECT_OFFERED_TANK , control: OfferedTank
+23:35:48 [info] 00:35:48 +1 [ui] UIDataParams redirect event:  SELECT_OFFERED_TANK , control:  TanksPanel  -> event:  SELECT_OFFERED_TANK , control: TanksPanelHolder
+23:35:49 [info] 00:35:49 +1 [ui] UIDataParams redirect event:  ON_TANK_PRESS , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  SELECT_PLAYER_TANK , control: PlayerTanks
+23:35:49 [info] 00:35:49 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:35:49 [info] 00:35:49 +1 [ui] UIDataParams redirect event:  SELECT_PLAYER_TANK , control:  TanksPanel  -> event:  SELECT_PLAYER_TANK , control: TanksPanelHolder
+23:35:49 [error] 00:35:49 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:35:50 [warning] 00:35:50 +1 [ui] [UIEventsSystem] More then one event on frame ' HoverAnim ' occured after ' HoverAnim '
+23:35:51 [info] 00:35:51 +1 [prebattle] SquadController::Deactivate
+23:35:51 [info] 00:35:51 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:35:51 [info] 00:35:51 +1 [base] Controller deactivated: HangarController
+23:35:51 [info] 00:35:51 +1 [base] Controller activated: NewInventory
+23:35:51 [info] 00:35:51 +1 [tutorial] Lesson destroyed: chatLesson
+23:35:51 [info] 00:35:51 +1 [base] Controller activated: OptionalDevicesController
+23:35:52 [info] 00:35:52 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:35:53 [info] 00:35:53 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:35:55 [info] 00:35:55 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  UnlockButton  -> event:  UNLOCK_SLOT , control: ButtonVisibilityWrapper
+23:35:55 [info] 00:35:55 +1 [ui] UIDataParams redirect event:  UNLOCK_SLOT , control:  OptionalDevices  -> event:  UNLOCK_SLOT , control: OptionalDevicesContent
+23:35:56 [info] 00:35:56 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:35:57 [info] 00:35:57 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:36:00 [info] 00:36:00 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:36:01 [info] 00:36:01 +1 [ui] UIDataParams redirect event:  ON_CLICK_BUTTON , control:  UnlockButton  -> event:  UNLOCK_SLOT , control: ButtonVisibilityWrapper
+23:36:01 [info] 00:36:01 +1 [ui] UIDataParams redirect event:  UNLOCK_SLOT , control:  OptionalDevices  -> event:  UNLOCK_SLOT , control: OptionalDevicesContent
+23:36:02 [info] 00:36:02 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:36:03 [info] 00:36:03 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:36:03 [info] 00:36:03 +1 [ui] UIDataParams redirect event:  ITEM_SELECTED , control:  OptionalDevices  -> event:  ITEM_SELECTED , control: OptionalDevicesContent
+23:36:04 [info] 00:36:04 +1 [base] Controller deactivated: OptionalDevicesController
+23:36:04 [info] 00:36:04 +1 [base] Controller deactivated: NewInventory
+23:36:04 [info] 00:36:04 +1 [base] Controller activated: HangarController
+23:36:04 [info] 00:36:04 +1 [prebattle] SquadController::Activate
+23:36:04 [error] 00:36:04 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:04 [info] 00:36:04 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:36:04 [info] 00:36:04 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:36:04 [info] 00:36:04 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:36:04 [error] 00:36:04 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:04 [error] 00:36:04 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:04 [error] 00:36:04 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:05 [error] 00:36:05 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:05 [info] 00:36:05 +1 [ui] UIDataParams redirect event:  BATTLE_BUTTON_PRESSED , control:  BattleButtonLayout  -> event:  BATTLE_BUTTON_PRESSED , control: BattleButtonContainer
+23:36:05 [error] 00:36:05 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:36:05 [info] 00:36:05 +1 [prebattle] SquadController::Deactivate
+23:36:05 [info] 00:36:05 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:36:05 [info] 00:36:05 +1 [base] Controller deactivated: HangarController
+23:36:05 [info] 00:36:05 +1 [base] Controller activated: RandomPrebattleController
+23:36:05 [info] 00:36:05 +1 [tutorial] Lesson destroyed: chatLesson
+23:36:11 [info] 00:36:11 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:36:11 [info] 00:36:11 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:36:11 [info] AccountGameLogic::onBecomeNonPlayer() 25540
+23:36:11 [info] 00:36:11 +1 [base] Controller deactivated: RandomPrebattleController
+23:36:11 [info] 00:36:11 +1 [prebattle] PrebattleRequester::SetRequestsProvider 1D31C494
+23:36:11 [info] 00:36:11 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:36:11 [info] 00:36:11 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:36:11 [info] 00:36:11 +1 [BW] BWApp::OnCreateEntity: entityId= 12072795 entityTypeID= 1 isPlayer= 1 created= 1
+23:36:11 [info] AvatarGameLogic::onBecomePlayer 25540
+23:36:11 [info] SetBattleState CREATED
+23:36:11 [info] 00:36:11 +1 [battle] Battle started on map: skit
+23:36:11 [info] 00:36:11 +1 [base] ScreensFlow::RequestToShowScreen GarageScreen:42 -> ArenaLoadingScreen:45067 25540
+23:36:11 [info] ClientArena::ClearVehicleMap 0
+23:36:11 [info] SetBattleState LOADING
+23:36:11 [warning] 00:36:11 +1 [battle] isAutodetect: 0 isRewinding: 0 typeId: class AvatarContextBattle
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Water = HIGH
+23:36:12 [info] 00:36:12 +1 [render] Draw Water Reflection / Refraction: 0
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Static object = LOW
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Landscape = MEDIUM
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Decoration Objects = OFF
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Reflections = LOW
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Tank = MEDIUM
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: Vegetation = HIGH
+23:36:12 [info] 00:36:12 +1 [render] Material group quality: VegetationCount = regular
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510390 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563232 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563286 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563256 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563248 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510394 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563243 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510367 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510359 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563250 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563295 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563284 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510399 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563239 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563236 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563242 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061684 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563201 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563281 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563207 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510365 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510370 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510360 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510374 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510377 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563221 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510358 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563215 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510392 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563209 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563287 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563229 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563264 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563280 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563202 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061683 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061690 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510357 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510388 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061677 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563252 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510393 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563297 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563235 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510363 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510397 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563205 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563274 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510400 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563247 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510398 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563260 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510368 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563241 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563296 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563285 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510378 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510383 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563267 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510386 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510380 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563266 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510376 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563259 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563211 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563234 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563273 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563223 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510364 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563255 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510381 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061685 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510355 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563204 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510356 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563230 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510395 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563245 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563272 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510382 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510396 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563291 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563227 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563219 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563237 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563277 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510387 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563282 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563203 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563292 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563246 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563278 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510391 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510371 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061686 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563269 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510389 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563288 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510385 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563220 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563224 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563293 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563254 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563214 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563270 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563251 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563275 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563257 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563271 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563238 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563249 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563294 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563206 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563262 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563261 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563225 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563218 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510375 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563228 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563222 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563253 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563244 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563208 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563283 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563258 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510361 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563210 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563216 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563233 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 12061680 entityTypeID= 2 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563226 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563276 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563290 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510373 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510372 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510362 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563268 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563217 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563213 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563231 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510379 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510369 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563263 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510366 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510384 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563279 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563265 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563240 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8510354 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563289 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:12 [info] 00:36:12 +1 [BW] BWApp::OnCreateEntity: entityId= 8563212 entityTypeID= 3 isPlayer= 0 created= 1
+23:36:14 [info] 00:36:14 +1 [tool] Legacy marker position is used
+23:36:14 [info] Cant purge lods: no render object
+23:36:14 [warning] 00:36:14 +1 [battle] Creating DetachTurret entity for vehicleId =  12061685
+23:36:14 [warning] 00:36:14 +1 [battle] DetachTurret entity address: 03A22740
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] Cant purge lods: no render object
+23:36:15 [warning] 00:36:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12061688
+23:36:15 [warning] 00:36:15 +1 [battle] DetachTurret entity address: 03A22740
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] Cant purge lods: no render object
+23:36:15 [warning] 00:36:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12061677
+23:36:15 [warning] 00:36:15 +1 [battle] DetachTurret entity address: 03A22740
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] Cant purge lods: no render object
+23:36:15 [warning] 00:36:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12061678
+23:36:15 [warning] 00:36:15 +1 [battle] DetachTurret entity address: 03A22740
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] Cant purge lods: no render object
+23:36:15 [warning] 00:36:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12061680
+23:36:15 [warning] 00:36:15 +1 [battle] DetachTurret entity address: 03A22740
+23:36:15 [info] 00:36:15 +1 [tool] Legacy marker position is used
+23:36:15 [info] Cant purge lods: no render object
+23:36:15 [warning] 00:36:15 +1 [battle] Creating DetachTurret entity for vehicleId =  12061687
+23:36:15 [warning] 00:36:15 +1 [battle] DetachTurret entity address: 03A22740
+23:36:16 [info] 00:36:16 +1 [tool] Legacy marker position is used
+23:36:16 [info] Cant purge lods: no render object
+23:36:16 [warning] 00:36:16 +1 [battle] Creating DetachTurret entity for vehicleId =  12061684
+23:36:16 [warning] 00:36:16 +1 [battle] DetachTurret entity address: 03A22740
+23:36:16 [info] 00:36:16 +1 [tool] Legacy marker position is used
+23:36:16 [info] Cant purge lods: no render object
+23:36:16 [warning] 00:36:16 +1 [battle] Creating DetachTurret entity for vehicleId =  12061682
+23:36:16 [warning] 00:36:16 +1 [battle] DetachTurret entity address: 03A22740
+23:36:16 [info] 00:36:16 +1 [tool] Legacy marker position is used
+23:36:16 [info] Cant purge lods: no render object
+23:36:16 [warning] 00:36:16 +1 [battle] Creating DetachTurret entity for vehicleId =  12061681
+23:36:16 [warning] 00:36:16 +1 [battle] DetachTurret entity address: 03A22740
+23:36:16 [info] 00:36:16 +1 [tool] Legacy marker position is used
+23:36:16 [info] Cant purge lods: no render object
+23:36:16 [warning] 00:36:16 +1 [battle] Creating DetachTurret entity for vehicleId =  12061683
+23:36:16 [warning] 00:36:16 +1 [battle] DetachTurret entity address: 03A22740
+23:36:16 [info] 00:36:16 +1 [tool] Legacy marker position is used
+23:36:16 [info] Cant purge lods: no render object
+23:36:16 [warning] 00:36:16 +1 [battle] Creating DetachTurret entity for vehicleId =  12061689
+23:36:16 [warning] 00:36:16 +1 [battle] DetachTurret entity address: 03A22740
+23:36:17 [info] 00:36:17 +1 [booster] BoostersPanelViewImpl::SetViewHiddenCallback
+23:36:17 [info] 00:36:17 +1 [booster] BoostersPanelViewImpl::SetViewShownCallback
+23:36:17 [info] 00:36:17 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 0
+23:36:17 [info] 00:36:17 +1 [booster] animationTime: 0.25
+23:36:17 [info] 00:36:17 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:36:17 [info] 00:36:17 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:36:17 [info] 00:36:17 +1 [base] ScreensFlow::RequestToShowScreen ArenaLoadingScreen:45067 -> BattleScreen:721077 25595
+23:36:17 [info] SetBattleState LOADED
+23:36:17 [info] 00:36:17 +1 [battle] HUDLayer::OnPeriodInfoUpdated: waiting
+23:36:17 [info] Create RayTester
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Water = HIGH
+23:36:17 [info] 00:36:17 +1 [render] Draw Water Reflection / Refraction: 0
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Static object = LOW
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Landscape = MEDIUM
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Decoration Objects = OFF
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Reflections = LOW
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Tank = MEDIUM
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: Vegetation = HIGH
+23:36:17 [info] 00:36:17 +1 [render] Material group quality: VegetationCount = regular
+23:36:18 [info] 00:36:18 +1 [booster] installedBoosters: 
+23:36:18 [info] 00:36:18 +1 [booster] availableBoosters: rareBoosterForCrewXp:20
+23:36:18 [info] 00:36:18 +1 [booster] OnBoosterPanelActivated
+23:36:23 [info] 00:36:23 +1 [battle] HUDLayer::OnPeriodInfoUpdated: prebattle
+23:36:30 [info] 00:36:30 +1 [booster] OnBoosterPanelDeactivated
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelController::HideFromScreen: 1
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelViewImpl::HideFromScreen: 1
+23:36:30 [info] 00:36:30 +1 [booster] animationTime: 0.25
+23:36:30 [info] 00:36:30 +1 [battle] HUDLayer::OnPeriodInfoUpdated: battle
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelViewImpl::OnPanelHidden
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelController::NotifyPanelHidden
+23:36:30 [info] 00:36:30 +1 [booster] PanelHiddenCallback OnBoosterPanelDeactivated
+23:36:30 [info] 00:36:30 +1 [booster] BoostersPanelController::SetPanelHiddenCallback
+23:37:01 [info] 00:37:01 +1 [BW] BWApp::OnCreateEntity: entityId= 12061678 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:04 [info] 00:37:04 +1 [BW] BWApp::OnCreateEntity: entityId= 12061682 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:05 [info] 00:37:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12061689 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:05 [info] 00:37:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12061679 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:05 [info] 00:37:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12061687 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:23 [info] 00:37:23 +1 [BW] BWApp::OnCreateEntity: entityId= 12061688 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:27 [info] 00:37:27 +1 [BW] BWApp::OnCreateEntity: entityId= 12061678 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:32 [info] 00:37:32 +1 [BW] BWApp::OnCreateEntity: entityId= 12061689 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:39 [info] 00:37:39 +1 [BW] BWApp::OnCreateEntity: entityId= 12061681 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:44 [info] 00:37:44 +1 [BW] BWApp::OnCreateEntity: entityId= 12061678 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:49 [info] 00:37:49 +1 [BW] BWApp::OnCreateEntity: entityId= 12061687 entityTypeID= 2 isPlayer= 0 created= 1
+23:37:51 [info] 00:37:51 +1 [BW] BWApp::OnCreateEntity: entityId= 12061682 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:02 [info] 00:38:02 +1 [BW] BWApp::OnCreateEntity: entityId= 12061688 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:02 [info] 00:38:02 +1 [BW] BWApp::OnCreateEntity: entityId= 12061679 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:02 [info] 00:38:02 +1 [BW] BWApp::OnCreateEntity: entityId= 12061689 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:06 [info] 00:38:06 +1 [BW] BWApp::OnCreateEntity: entityId= 12061678 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:32 [info] 00:38:32 +1 [BW] BWApp::OnCreateEntity: entityId= 12061687 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:38 [info] 00:38:38 +1 [BW] BWApp::OnCreateEntity: entityId= 12061679 entityTypeID= 2 isPlayer= 0 created= 1
+23:38:50 [info] 00:38:50 +1 [BW] BWApp::OnCreateEntity: entityId= 12061822 entityTypeID= 8 isPlayer= 0 created= 1
+23:39:15 [info] 00:39:15 +1 [BW] BWApp::OnCreateEntity: entityId= 12061688 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:15 [info] 00:39:15 +1 [BW] BWApp::OnCreateEntity: entityId= 12061678 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:16 [info] 00:39:16 +1 [BW] BWApp::OnCreateEntity: entityId= 12061687 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:35 [info] 00:39:35 +1 [BW] BWApp::OnCreateEntity: entityId= 12061689 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:40 [info] 00:39:40 +1 [BW] BWApp::OnCreateEntity: entityId= 12061688 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:45 [info] 00:39:45 +1 [BW] BWApp::OnCreateEntity: entityId= 12061682 entityTypeID= 2 isPlayer= 0 created= 1
+23:39:48 [info] 00:39:48 +1 [BW] BWApp::OnCreateEntity: entityId= 12061679 entityTypeID= 2 isPlayer= 0 created= 1
+23:40:05 [info] 00:40:05 +1 [BW] BWApp::OnCreateEntity: entityId= 12061682 entityTypeID= 2 isPlayer= 0 created= 1
+23:40:10 [info] 00:40:10 +1 [BW] BWApp::OnCreateEntity: entityId= 12061679 entityTypeID= 2 isPlayer= 0 created= 1
+23:40:28 [info] 00:40:28 +1 [battle] HUDLayer::OnPeriodInfoUpdated: afterbattle
+23:40:29 [info] 00:40:29 +1 [BW] BlitzServerMessageHandler::onEntitiesReset - 0
+23:40:29 [info] 00:40:29 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:40:29 [info] AvatarGameLogic::onBecomeNonPlayer 39745
+23:40:29 [info] SetBattleState LEAVE
+23:40:29 [info] BattleScreen::OnLeaveBattle
+23:40:29 [info] SetBattleState WAIT
+23:40:29 [error] UIBattleTextChatDialog::Hide called from HUDLayer::OnGameLogicLeaves
+23:40:29 [info] Release RayTester
+23:40:29 [info] 00:40:29 +1 [BW] BWApp::OnCreateEntity: entityId= 12031156 entityTypeID= 0 isPlayer= 1 created= 1
+23:40:29 [info] AccountGameLogic::onBecomePlayer() 12031156 39745
+23:40:29 [info] 00:40:29 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:40:29 [info] 00:40:29 +1 [prebattle] AddEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:40:29 [info] 00:40:29 +1 [prebattle] PrebattleRequester::SetRequestsProvider 00000000
+23:40:29 [info] 00:40:29 +1 [base] ScreensFlow::RequestToShowScreen BattleScreen:721077 -> WaitScreen:666 39745
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Water = HIGH
+23:40:29 [info] 00:40:29 +1 [render] Draw Water Reflection / Refraction: 0
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Static object = LOW
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Landscape = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Decoration Objects = OFF
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Reflections = LOW
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Tank = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Vegetation = HIGH
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: VegetationCount = regular
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Water = HIGH
+23:40:29 [info] 00:40:29 +1 [render] Draw Water Reflection / Refraction: 0
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Static object = LOW
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Landscape = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Decoration Objects = OFF
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Reflections = LOW
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Tank = MEDIUM
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: Vegetation = HIGH
+23:40:29 [info] 00:40:29 +1 [render] Material group quality: VegetationCount = regular
+23:40:29 [info] SetBattleState UNLOAD
+23:40:29 [info] 00:40:29 +1 [battle] MOBWOT-87347: context ptr = 265F48D8 , eventSystem ptr = 07E2B9F8
+23:40:29 [info] ClientArena::ClearVehicleMap 14
+23:40:29 [info] SetBattleState UNLOADED
+23:40:29 [info] 00:40:29 +1 [base] ScreensFlow::RequestToShowScreen WaitScreen:666 -> GarageScreen:42 39751
+23:40:29 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/custom_set_hint_Europe_576287409L.dat" not exists.
+23:40:29 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:40:29 [warning] 00:40:29 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:40:30 [error] [YamlParser::Parse] Can't Open file Stories/bp_season_04/settings.yaml for read
+23:40:30 [warning] 00:40:30 +1 [story] could not create parser:  ~res:/Stories/bp_season_04/settings.yaml
+23:40:30 [warning] 00:40:30 +1 [ads] Player id is not configured!
+23:40:30 [warning] 00:40:30 +1 [ads] IronSource application key is not configured!
+23:40:30 [error] [ValUtils::ReadArrayFromFile] File "C:/Users/sawic/Documents/DAVAProject/cache/tank_birthday_Europe_576287409L.dat" not exists.
+23:40:30 [info] [BattleMetrics] Stats has been sent
+23:40:30 [info] GarageScreen::LoadResources begin
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Water = HIGH
+23:40:31 [info] 00:40:31 +1 [render] Draw Water Reflection / Refraction: 0
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Static object = LOW
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Landscape = MEDIUM
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Spherical Harmonics = MEDIUM
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Decoration Objects = OFF
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Reflections = LOW
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Tank = MEDIUM
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: Vegetation = HIGH
+23:40:31 [info] 00:40:31 +1 [render] Material group quality: VegetationCount = regular
+23:40:31 [info] 00:40:31 +1 [base] Controller activated: HangarLoadingController
+23:40:31 [info] 00:40:31 +1 [base] Shop state is not synchronized 2
+23:40:34 [info] 00:40:34 +1 [base] Shop state is not synchronized 2
+23:40:34 [info] 00:40:34 +1 [base] Controller deactivated: HangarLoadingController
+23:40:35 [info] 00:40:35 +1 [base] Controller activated: BattleResultsController
+23:40:35 [info] 00:40:35 +1 [base] Controller activated: BattleResultsSwitchController
+23:40:35 [info] 00:40:35 +1 [base] Controller activated: BattleResultsPersonalPageController
+23:40:35 [warning] 00:40:35 +1 [engine] Failed to create sprite: Gfx/Lobby/currency/currency__m
+23:40:35 [error] 00:40:35 +1 [ui] Style sheet can not find component UITextComponent in control PlayerNameWithTag
+23:40:35 [error] 00:40:35 +1 [ui] Style sheet can not find component UITextComponent in control PlayerNameWithTag
+23:44:00 [info] 00:44:00 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  Slave  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: TooltipReplayButton
+23:44:00 [info] 00:44:00 +1 [ui] UIDataParams redirect event:  FINISH_HIDE_POPUP_ANIMATION , control:  TooltipReplayButton  -> event:  FINISH_HIDE_POPUP_ANIMATION , control: HintLayer
+23:44:01 [info] 00:44:01 +1 [base] Controller deactivated: BattleResultsPersonalPageController
+23:44:02 [info] 00:44:02 +1 [base] Controller activated: BattleResultsTeamPageController
+23:44:02 [info] 00:44:02 +1 [tutorial] Lesson destroyed: replayLesson
+23:44:02 [info] 00:44:02 +1 [base] Controller deactivated: BattleResultsTeamPageController
+23:44:02 [info] 00:44:02 +1 [base] Controller activated: BattleResultsPersonalPageController
+23:44:03 [error] 00:44:03 +1 [ui] Style sheet can not find component UITextComponent in control PlayerNameWithTag
+23:44:03 [error] 00:44:03 +1 [ui] Style sheet can not find component UITextComponent in control PlayerNameWithTag
+23:44:03 [info] 00:44:03 +1 [base] Controller deactivated: BattleResultsPersonalPageController
+23:44:03 [info] 00:44:03 +1 [base] Controller deactivated: BattleResultsSwitchController
+23:44:03 [info] 00:44:03 +1 [base] Controller deactivated: BattleResultsController
+23:44:03 [info] 00:44:03 +1 [base] Controller activated: HangarController
+23:44:03 [info] 00:44:03 +1 [prebattle] SquadController::Activate
+23:44:04 [error] 00:44:04 +1 [ui] Style sheet can not find component Sound in control BattleWrapper
+23:44:04 [error] 00:44:04 +1 [ui] Style sheet can not find component UIOpacityComponent in control HoverBg
+23:44:05 [info] 00:44:05 +1 [ui] UIDataParams redirect event:  STOP_FULL_PIGGY_EFFECTS , control:  LimitedTimeOffer0  -> event:  StopFullPiggyEffects , control: Slider
+23:44:05 [info] 00:44:05 +1 [ui] UIDataParams redirect event:  FILTER_ANIMATION_FINISHED , control:  TanksPanel  -> event:  FILTER_ANIMATION_FINISHED , control: TanksPanelHolder
+23:44:05 [info] 00:44:05 +1 [ui] UIDataParams redirect event:  INIT_STARTED_INDEX , control:  TankCell:european:It13_Progetto_M35_mod_46  -> event:  INIT_STARTED_INDEX , control: PlayerTanks
+23:44:08 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=0
+23:44:08 [info] EngineBackend::HandleAppTerminate: triggeredBySystem=1
+23:44:08 [info] Window::HandleVisibilityChanged: become hidden
+23:44:08 [info] GameCore::OnBackground
+23:44:08 [error] disconnected by user request
+23:44:08 [info] 00:44:08 +1 [chat] XChatInstance::ReleaseGlooxResources
+23:44:08 [info] 00:44:08 +1 [chat] XChatInstance::ReleaseGlooxResources
+23:44:08 [info] Window::HandleWindowDestroyed: enter
+23:44:08 [info] EngineBackend::OnWindowDestroyed: enter
+23:44:08 [info] GameCore::OnWindowDestroyed
+23:44:08 [info] 00:44:08 +1 [BW] BWWrapper::TeardownConnection
+23:44:08 [info] 00:44:08 +1 [BW] BWApp::OnClearEntities: keepPlayerBaseEntity= 0
+23:44:08 [info] AccountGameLogic::onBecomeNonPlayer() 52144
+23:44:08 [info] 00:44:08 +1 [prebattle] SquadController::Deactivate
+23:44:08 [info] 00:44:08 +1 [prebattle] SquadController::HideDialogAndUnsubscribeFromLogic
+23:44:08 [info] 00:44:08 +1 [base] Controller deactivated: HangarController
+23:44:08 [info] 00:44:08 +1 [prebattle] PrebattleRequester::SetRequestsProvider 07E5C1EC
+23:44:08 [info] 00:44:08 +1 [tutorial] Lesson destroyed: replayLesson
+23:44:08 [info] 00:44:08 +1 [prebattle] PrebattleRequester::SetClientPrebattle
+23:44:08 [info] 00:44:08 +1 [prebattle] RemoveEvent ClientPrebattle::EVENT_SQUAD_FORMED
+23:44:08 [warning] can't set presence for offline client
+23:44:08 [info] 00:44:08 +1 [chat] XChatInstance::ReleaseGlooxResources
+23:44:08 [info] HeavyResourceValidationChecker: CANCELLED
