@@ -4,7 +4,7 @@ class Trojkat{
     private double c = 0;
     private double wysokosc = 0;
     
-    public Trojkat(double a,double b,double c,double h ){
+    public Trojkat(double a,double b,double c,double wysokosc ){
         this.a = a;
         this.b = b;
         this.c = c;
