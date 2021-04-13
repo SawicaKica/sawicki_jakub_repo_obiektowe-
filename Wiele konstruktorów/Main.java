@@ -9,7 +9,7 @@ class Main{
 		Osoba o3 = new Osoba(199, 90, "Jakub", "Sawicki");
 		System.out.println(o3);
 		
-        Trojkat t1 = new Trojkat(3,2,1,5);
-        System.out.println(t1);
+        Trojkat t1 = new Trojkat(1,6);
+        Trojkat t2 = new Trojkat(3);
 	}
 }
