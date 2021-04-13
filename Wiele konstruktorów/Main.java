@@ -9,7 +9,7 @@ class Main{
 		Osoba o3 = new Osoba(199, 90, "Jakub", "Sawicki");
 		System.out.println(o3);
 		
-		Trojkat tr = new Trojkat(5, 4);
-		System.out.println("Pole trojkata wynosi"+tr);
+        Trojkat t1 = new Trojkat(3,2,1,5);
+        System.out.println(t1);
 	}
 }
